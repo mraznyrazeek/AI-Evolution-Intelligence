@@ -1771,36 +1771,4 @@ The data-source investigation also identified several important requirements for
 
 ## 14. current architecture
 
-                    AI EVOLUTION PLATFORM
-                            │
-       ┌────────────────────┼────────────────────┐
-       │                    │                    │
-       ▼                    ▼                    ▼
-   AI MODELS             ECOSYSTEM            CAPABILITY
-       │                     │                   │
- Releases / Versions    ┌────┼────┐          Benchmarks
- Capabilities           │    │    │
-                        ▼    ▼    ▼
-                       SO  GitHub Reddit*
-                        │    │    │
-                        └────┼────┘
-                             │
-                        Hugging Face*
-                             │
-                             ▼
-                    NORMALISED DATA
-                             │
-                             ▼
-                     EVOLUTION ENGINE
-                             │
-                  ┌──────────┼──────────┐
-                  ▼          ▼          ▼
-              Evolution   Lifecycle   Trends
-                Index      Analysis   Detection
-                  │          │          │
-                  └──────────┼──────────┘
-                             ▼
-                      ML / Forecasting
-                             │
-                             ▼
-                      WEB APPLICATION
+![alt text](image.png)
