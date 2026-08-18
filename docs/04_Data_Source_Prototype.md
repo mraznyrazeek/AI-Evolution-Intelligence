@@ -131,3 +131,423 @@ The production collector must support:
 - Incremental collection.
 - Technology extraction.
 - Source identification.
+
+## 4. GitHub Prototype
+
+### 4.1 Prototype Objective
+
+The GitHub prototype was created to evaluate the accessibility, structure, and usefulness of GitHub repository metadata for analysing AI open-source ecosystem evolution.
+
+The initial prototype used the GitHub repository search API with the search term `artificial intelligence` and retrieved the 10 highest-starred matching repositories.
+
+### 4.2 Prototype Result
+
+The prototype successfully returned an HTTP 200 response and 10 repository records.
+
+The API reported 107,207 matching repositories for the broad search query.
+
+The returned records contained useful metadata including:
+
+- Repository name
+- Repository owner
+- Description
+- Star count
+- Fork count
+- Open issue count
+- Primary programming language
+- Topics
+- Creation date
+- Last update date
+- Repository URL
+
+### 4.3 Data Quality Observations
+
+The prototype demonstrated that GitHub provides rich structured metadata that can potentially support open-source ecosystem analysis.
+
+However, the broad `artificial intelligence` search produced repositories with substantially different purposes.
+
+Examples included educational roadmaps, curated resource lists, programming projects, classical AI implementations, generative AI resources, and AI applications.
+
+Therefore, GitHub search results cannot be treated as a direct representation of modern AI technology activity.
+
+A relevance filtering and technology classification process will be required before repository records are included in technology-level analysis.
+
+### 4.4 Technology Identification
+
+Repository topics and descriptions appear to provide useful signals for identifying technologies.
+
+Potential classification inputs include:
+
+- Repository name
+- Description
+- Topics
+- Programming language
+- README content
+- Other repository metadata where appropriate
+
+Natural language processing and rule-based classification may later be investigated for mapping repositories to AI technologies.
+
+### 4.5 Popularity and Activity Indicators
+
+The prototype confirmed the availability of several potential ecosystem indicators:
+
+- Stars
+- Forks
+- Open issues
+- Repository age
+- Last update date
+- Last push date
+- Programming language
+- Topics
+
+These indicators may be transformed into technology-level measures such as repository count, popularity, activity, and growth.
+
+### 4.6 Important Limitation
+
+Raw star counts cannot be treated as direct historical growth measurements.
+
+A repository may have accumulated a large number of stars over several years, while a newer repository may have fewer stars but a substantially higher growth rate.
+
+Therefore, the project will investigate historical activity or alternative growth indicators before using GitHub data for time-series prediction.
+
+### 4.7 Rate Limit Observation
+
+The prototype returned a low remaining search/API quota during testing.
+
+This demonstrates that GitHub API rate limits must be considered in the production architecture.
+
+The final collector should minimise repeated searches, use caching, implement controlled collection, and investigate authenticated API access where appropriate.
+
+### 4.8 Prototype Decision
+
+**Decision: APPROVED WITH RESTRICTIONS**
+
+GitHub is approved as a core data source for open-source ecosystem analysis.
+
+However, the project will not treat broad keyword search results as direct technology measurements.
+
+Before large-scale collection, the project will implement:
+
+- Controlled technology queries.
+- Repository relevance filtering.
+- Technology classification.
+- Duplicate detection.
+- Pagination.
+- Rate-limit handling.
+- Historical activity investigation.
+- Raw-data preservation.
+
+### 4.9 Technology-Specific Search Test
+
+A second GitHub prototype was performed using the search term `RAG`.
+
+The query returned 10 repositories and reported a large number of matching repositories.
+
+The results were substantially more relevant to modern AI technologies than the broad `artificial intelligence` query.
+
+The returned repositories included Dify, Open WebUI, LangChain, RAGFlow, and other projects associated with RAG, LLMs, AI agents, MCP, knowledge graphs, and related technologies.
+
+### 4.10 Technology Relationship Observation
+
+The prototype demonstrated that individual repositories can contain multiple AI technology signals simultaneously.
+
+For example, repositories may contain combinations of:
+
+- RAG
+- AI agents
+- LLMs
+- MCP
+- LangChain
+- OpenAI
+- Claude
+- Gemini
+- Knowledge graphs
+- Prompt engineering
+
+This indicates that GitHub data may support technology co-occurrence and relationship analysis in addition to simple repository counting.
+
+### 4.11 Repository Relevance Problem
+
+The technology-specific search also demonstrated that a repository containing a technology keyword or topic is not necessarily primarily an implementation of that technology.
+
+Repositories may represent:
+
+- Core implementations
+- Frameworks
+- Applications
+- Research projects
+- Educational resources
+- Tutorials
+- Curated lists
+- Supporting tools
+
+Therefore, repository relevance and role classification will be required before calculating technology-level ecosystem indicators.
+
+### 4.12 Proposed GitHub Classification
+
+The project will investigate classifying repositories into categories such as:
+
+- Core implementation
+- Framework
+- Application
+- Research implementation
+- Educational resource
+- Tutorial
+- Curated resource
+- Other
+
+Repository classification may use:
+
+- Repository name
+- Description
+- Topics
+- README content
+- Repository metadata
+- NLP-based classification
+
+### 4.13 Prototype Findings
+
+The GitHub prototype demonstrates that the platform provides potentially valuable signals for analysing AI technology ecosystems.
+
+However, raw search-result counts cannot directly represent technology adoption or ecosystem size.
+
+The project will therefore focus on validated repository sets and derived measures such as:
+
+- Repository growth
+- Star growth
+- Fork growth
+- Development activity
+- Organisation participation
+- Technology co-occurrence
+- Repository role distribution
+
+### 4.14 Updated Prototype Decision
+
+**Decision: APPROVED WITH CONTROLLED TECHNOLOGY DISCOVERY**
+
+GitHub remains a core data source.
+
+However, the production pipeline will not rely on unrestricted keyword counts.
+
+Technology-specific discovery, repository relevance filtering, classification, deduplication, and technology aggregation will be required before GitHub data is used for AI evolution analysis.### 4.9 Technology-Specific Search Test
+
+A second GitHub prototype was performed using the search term `RAG`.
+
+The query returned 10 repositories and reported a large number of matching repositories.
+
+The results were substantially more relevant to modern AI technologies than the broad `artificial intelligence` query.
+
+The returned repositories included Dify, Open WebUI, LangChain, RAGFlow, and other projects associated with RAG, LLMs, AI agents, MCP, knowledge graphs, and related technologies.
+
+### 4.10 Technology Relationship Observation
+
+The prototype demonstrated that individual repositories can contain multiple AI technology signals simultaneously.
+
+For example, repositories may contain combinations of:
+
+- RAG
+- AI agents
+- LLMs
+- MCP
+- LangChain
+- OpenAI
+- Claude
+- Gemini
+- Knowledge graphs
+- Prompt engineering
+
+This indicates that GitHub data may support technology co-occurrence and relationship analysis in addition to simple repository counting.
+
+### 4.11 Repository Relevance Problem
+
+The technology-specific search also demonstrated that a repository containing a technology keyword or topic is not necessarily primarily an implementation of that technology.
+
+Repositories may represent:
+
+- Core implementations
+- Frameworks
+- Applications
+- Research projects
+- Educational resources
+- Tutorials
+- Curated lists
+- Supporting tools
+
+Therefore, repository relevance and role classification will be required before calculating technology-level ecosystem indicators.
+
+### 4.12 Proposed GitHub Classification
+
+The project will investigate classifying repositories into categories such as:
+
+- Core implementation
+- Framework
+- Application
+- Research implementation
+- Educational resource
+- Tutorial
+- Curated resource
+- Other
+
+Repository classification may use:
+
+- Repository name
+- Description
+- Topics
+- README content
+- Repository metadata
+- NLP-based classification
+
+### 4.13 Prototype Findings
+
+The GitHub prototype demonstrates that the platform provides potentially valuable signals for analysing AI technology ecosystems.
+
+However, raw search-result counts cannot directly represent technology adoption or ecosystem size.
+
+The project will therefore focus on validated repository sets and derived measures such as:
+
+- Repository growth
+- Star growth
+- Fork growth
+- Development activity
+- Organisation participation
+- Technology co-occurrence
+- Repository role distribution
+
+### 4.14 Updated Prototype Decision
+
+**Decision: APPROVED WITH CONTROLLED TECHNOLOGY DISCOVERY**
+
+GitHub remains a core data source.
+
+However, the production pipeline will not rely on unrestricted keyword counts.
+
+Technology-specific discovery, repository relevance filtering, classification, deduplication, and technology aggregation will be required before GitHub data is used for AI evolution analysis.
+
+### 4.15 Historical Star Activity Test
+
+A historical star-activity test was performed using the GitHub stargazers endpoint for the Dify repository.
+
+The request returned HTTP 401 Unauthorized.
+
+The current GitHub API documentation indicates that, since July 2026, access to stargazer listing endpoints is restricted to repository administrators and collaborators.
+
+Therefore, the project will not depend on retrieving individual historical stargazer records for arbitrary public repositories.
+
+### 4.16 Historical Star Data Decision
+
+Historical individual star events will be excluded from the core GitHub data collection strategy.
+
+Current repository star counts may still be used as a snapshot popularity indicator, but they will not be interpreted as historical growth measurements.
+
+This prevents the project from making unsupported assumptions about historical repository adoption.
+
+### 4.17 Revised GitHub Activity Strategy
+
+The project will investigate alternative GitHub activity indicators that are accessible for public repositories, including:
+
+- Repository creation dates
+- Repository update dates
+- Push activity
+- Release activity
+- Issue activity
+- Pull request activity where appropriate
+- Current star count
+- Current fork count
+- Repository counts
+- Technology co-occurrence
+- Organisation participation
+
+These indicators will be evaluated individually before being incorporated into the analytical dataset.
+
+### 4.18 Final GitHub Prototype Decision
+
+**Decision: APPROVED AS A CORE SOURCE**
+
+GitHub remains a core data source for analysing the open-source AI ecosystem.
+
+However, the project will not rely on unrestricted historical star-event data.
+
+GitHub will primarily provide:
+
+- Open-source repository ecosystem size
+- Repository development activity
+- Technology relationships
+- Current popularity indicators
+- Release activity
+- Repository lifecycle information
+
+## 5. AI Model Ecosystem Prototype
+
+### 5.1 Prototype Objective
+
+The AI model ecosystem prototype will investigate whether publicly available model repository information can provide reliable signals for analysing the evolution of AI models and technologies.
+
+The prototype will initially use the Hugging Face Hub as a structured model ecosystem source.
+
+The main objectives are:
+
+- Identify available AI models.
+- Retrieve model metadata.
+- Identify model creators and organisations.
+- Identify model tasks and capabilities.
+- Determine model creation dates.
+- Determine model update dates.
+- Investigate model popularity indicators.
+- Identify model technology tags.
+- Investigate the feasibility of constructing a historical model ecosystem dataset.
+
+### 5.8 Historical Model Creation Test
+
+A second Hugging Face prototype was performed using `created_at` as the sorting field.
+
+The API successfully returned models ordered by creation date. The test returned models created on 16, 17, and 18 August 2026.
+
+This confirms that model repository creation dates can be used to investigate the historical growth of the model ecosystem.
+
+### 5.9 Model Search Relevance Problem
+
+The historical test also demonstrated that a search term such as `llm` does not produce a clean dataset containing only general-purpose large language models.
+
+Returned records included language models, specialised models, tokenization-related models, research models, converted models, and other repositories containing the `llm` term.
+
+Therefore, search results will require technology classification and relevance filtering before being used in analytical calculations.
+
+### 5.10 Model Lineage Observation
+
+Hugging Face model metadata may contain base-model and fine-tuning relationships.
+
+These relationships provide a potential mechanism for identifying model lineage.
+
+A model lineage structure may allow the project to represent relationships such as:
+
+Base Model → Fine-Tuned Model → Domain-Specific Model
+
+Model lineage will be investigated as a potential AI evolution feature.
+
+### 5.11 Historical Data Decision
+
+Model creation dates are approved as a historical ecosystem indicator.
+
+The project will investigate model creation counts by month or other appropriate time periods.
+
+However, model creation count will not automatically be interpreted as technology adoption or model quality.
+
+Additional indicators such as downloads, likes, capabilities, model lineage, and evaluation information will be considered separately.
+
+### 5.12 Updated Prototype Decision
+
+**Decision: APPROVED AS A CORE SOURCE**
+
+Hugging Face is approved as a core source for AI model ecosystem analysis.
+
+The production pipeline will require:
+
+- Controlled technology discovery.
+- Model relevance filtering.
+- Technology classification.
+- Model-family identification.
+- Model lineage extraction where available.
+- Creation-date processing.
+- Adoption indicators.
+- Duplicate detection.
+- Raw-data preservation.
