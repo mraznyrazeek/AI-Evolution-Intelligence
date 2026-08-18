@@ -1,133 +1,141 @@
+from datetime import datetime, timezone
+
 from huggingface_hub import HfApi
 
 
+# ============================================================
+# AI Evolution Intelligence
+# Hugging Face Historical Test
+# January 2023
+# ============================================================
+
 api = HfApi()
 
+START_DATE = datetime(
+    2023, 1, 1,
+    tzinfo=timezone.utc
+)
 
-QUERIES = [
-    "llm",
-    "text-generation",
-    "multimodal",
-    "reasoning",
-    "embedding",
-]
-
-
-PERIODS = [
-    ("2023", "2023-01-01", "2023-12-31"),
-    ("2024", "2024-01-01", "2024-12-31"),
-    ("2025", "2025-01-01", "2025-12-31"),
-    ("2026", "2026-01-01", "2026-08-31"),
-]
+END_DATE = datetime(
+    2023, 2, 1,
+    tzinfo=timezone.utc
+)
 
 
-def check_query(query, start_date, end_date):
+QUERIES = {
+    "llm": "llm",
+    "text_generation": "text-generation",
+    "multimodal": "multimodal",
+    "reasoning": "reasoning",
+    "embedding": "embedding",
+}
+
+
+def is_in_period(model):
+
+    created_at = getattr(
+        model,
+        "created_at",
+        None
+    )
+
+    if created_at is None:
+        return False
+
+    return (
+        START_DATE
+        <= created_at
+        < END_DATE
+    )
+
+
+def test_query(
+    category,
+    query
+):
+
+    print()
+    print("-" * 70)
+    print(f"Testing: {category}")
+    print(f"Search: {query}")
+    print("-" * 70)
+
+    checked = 0
+
+    found = []
 
     try:
 
         models = api.list_models(
             search=query,
-            sort="created_at",
+            sort="createdAt",
             limit=100,
         )
-
-        checked = 0
 
         for model in models:
 
             checked += 1
 
-            if model.created_at is None:
-                continue
+            if is_in_period(model):
 
-            created_date = (
-                model.created_at
-                .date()
-                .isoformat()
-            )
+                found.append(model)
 
-            if start_date <= created_date <= end_date:
+                print(
+                    f"FOUND: {model.id}"
+                )
 
-                return {
-                    "found": True,
-                    "model": model.id,
-                    "created": created_date,
-                    "checked": checked,
-                }
+                print(
+                    f"Created: "
+                    f"{model.created_at}"
+                )
 
-            # Since results are ordered by creation date,
-            # once we move earlier than the target period,
-            # there is no need to continue.
-            if created_date < start_date:
+                print(
+                    f"Downloads: "
+                    f"{getattr(model, 'downloads', 0)}"
+                )
 
-                break
+                print(
+                    f"Likes: "
+                    f"{getattr(model, 'likes', 0)}"
+                )
 
-        return {
-            "found": False,
-            "checked": checked,
-        }
+                print()
+
+        print(
+            f"Models checked: {checked}"
+        )
+
+        print(
+            f"Models found in January 2023: "
+            f"{len(found)}"
+        )
 
     except Exception as error:
 
-        return {
-            "error": str(error),
-        }
+        print(
+            f"ERROR: {error}"
+        )
 
 
 def main():
 
     print("=" * 70)
+    print("AI Evolution Intelligence")
     print("Hugging Face Historical Coverage Test")
-    print("Pagination / Historical Validation")
+    print("January 2023")
     print("=" * 70)
 
-    for year, start_date, end_date in PERIODS:
+    for category, query in QUERIES.items():
 
-        print(f"\n### {year}")
+        test_query(
+            category,
+            query
+        )
 
-        for query in QUERIES:
-
-            print(f"\nTesting: {query}")
-
-            result = check_query(
-                query,
-                start_date,
-                end_date,
-            )
-
-            if "error" in result:
-
-                print(
-                    f"ERROR: {result['error']}"
-                )
-
-            elif result["found"]:
-
-                print(
-                    "FOUND"
-                )
-
-                print(
-                    f"Model: {result['model']}"
-                )
-
-                print(
-                    f"Created: {result['created']}"
-                )
-
-                print(
-                    f"Models checked: {result['checked']}"
-                )
-
-            else:
-
-                print(
-                    "NO MODEL FOUND"
-                )
-
-                print(
-                    f"Models checked: {result['checked']}"
-                )
+    print()
+    print("=" * 70)
+    print("TEST COMPLETE")
+    print("=" * 70)
 
 
 if __name__ == "__main__":

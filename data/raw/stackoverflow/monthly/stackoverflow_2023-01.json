@@ -1,0 +1,4274 @@
+{
+  "metadata": {
+    "source": "Stack Overflow",
+    "study_period": "2023-01-01 to 2026-08-31",
+    "queries": [
+      "openai",
+      "claude",
+      "gemini",
+      "llm",
+      "rag",
+      "ai-agent",
+      "mcp"
+    ],
+    "collection_timestamp": "2026-08-18T10:51:13.795638+00:00",
+    "raw_record_count": 123,
+    "unique_record_count": 123
+  },
+  "records": [
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592686+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "node.js",
+          "express",
+          "curl",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 1177295,
+          "reputation": 4600,
+          "user_id": 1152980,
+          "user_type": "registered",
+          "accept_rate": 61,
+          "profile_image": "https://i.sstatic.net/m8i3G.gif?s=256",
+          "display_name": "William",
+          "link": "https://stackoverflow.com/users/1152980/william"
+        },
+        "is_answered": false,
+        "view_count": 1800,
+        "answer_count": 2,
+        "score": 3,
+        "last_activity_date": 1700093229,
+        "creation_date": 1672541297,
+        "last_edit_date": 1673468426,
+        "question_id": 74972916,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74972916/how-to-ping-the-chatgpt-via-curl-and-retain-the-state-of-conversation",
+        "title": "How to ping the ChatGPT via curl and retain the state of conversation"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592731+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "php",
+          "html",
+          "wordpress",
+          "advanced-custom-fields"
+        ],
+        "owner": {
+          "account_id": 26631202,
+          "reputation": 47,
+          "user_id": 20863671,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp5jU3beLnRDFuW7-JKfQaPXnyj7IN-pwdNGwdOwUw=k-s256",
+          "display_name": "treepek",
+          "link": "https://stackoverflow.com/users/20863671/treepek"
+        },
+        "is_answered": true,
+        "view_count": 402,
+        "accepted_answer_id": 75004049,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1672827895,
+        "creation_date": 1672583812,
+        "last_edit_date": 1672827643,
+        "question_id": 74975216,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74975216/wordpress-php-rendering-user-code-gotten-by-acfs-get-field-function-in-iframe",
+        "title": "Wordpress PhP rendering user code gotten by ACF&#39;s get_field() function in iframe"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592740+00:00",
+      "data": {
+        "tags": [
+          "android",
+          "kotlin",
+          "retrofit",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 22743190,
+          "reputation": 21,
+          "user_id": 16904296,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AATXAJyxBbpgAhtvEoTQ638qvY4ZyQ28_XiQHQAsSIV6=k-s256",
+          "display_name": "Decodator",
+          "link": "https://stackoverflow.com/users/16904296/decodator"
+        },
+        "is_answered": false,
+        "view_count": 689,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1673805451,
+        "creation_date": 1672589995,
+        "last_edit_date": 1673805451,
+        "question_id": 74975768,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74975768/how-can-i-send-an-image-editing-request-to-the-openai-endpoint-from-an-android-a",
+        "title": "How can I send an image editing request to the OpenAI endpoint from an Android App written in Kotlin?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592745+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "node.js",
+          "express",
+          "curl",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 1177295,
+          "reputation": 4600,
+          "user_id": 1152980,
+          "user_type": "registered",
+          "accept_rate": 61,
+          "profile_image": "https://i.sstatic.net/m8i3G.gif?s=256",
+          "display_name": "William",
+          "link": "https://stackoverflow.com/users/1152980/william"
+        },
+        "is_answered": false,
+        "view_count": 2580,
+        "answer_count": 1,
+        "score": -2,
+        "last_activity_date": 1673468436,
+        "creation_date": 1672592660,
+        "last_edit_date": 1673468436,
+        "question_id": 74976042,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74976042/how-to-receive-chatgpt-multi-line-replies-when-using-curl",
+        "title": "How to receive ChatGPT multi-line replies when using CURL?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592751+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "openai-whisper"
+        ],
+        "owner": {
+          "account_id": 27406761,
+          "reputation": 31,
+          "user_id": 20907309,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7O6HpOFWisgV8YU0eliNsevSC42Gw5d6_jSw4s=k-s256",
+          "display_name": "foxy",
+          "link": "https://stackoverflow.com/users/20907309/foxy"
+        },
+        "is_answered": false,
+        "view_count": 5350,
+        "closed_date": 1716547769,
+        "answer_count": 1,
+        "score": 3,
+        "last_activity_date": 1672860530,
+        "creation_date": 1672609685,
+        "last_edit_date": 1672860530,
+        "question_id": 74977584,
+        "link": "https://stackoverflow.com/questions/74977584/why-do-i-see-this-error-when-i-try-to-install-openai-whisper",
+        "closed_reason": "Duplicate",
+        "title": "why do I see this error when I try to install Openai Whisper"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592756+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "artificial-intelligence",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 6510757,
+          "reputation": 120,
+          "user_id": 5038122,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/2f6ed50c39d4a5184da636710c84dbdb?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Richard Twitty",
+          "link": "https://stackoverflow.com/users/5038122/richard-twitty"
+        },
+        "is_answered": true,
+        "view_count": 6543,
+        "accepted_answer_id": 74992998,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1694778006,
+        "creation_date": 1672630098,
+        "last_edit_date": 1678714086,
+        "question_id": 74978793,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74978793/openai-gpt-3-api-error-invalidrequesterror-unrecognized-request-argument-supp",
+        "title": "OpenAI GPT-3 API error: &quot;InvalidRequestError: Unrecognized request argument supplied&quot;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592762+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "curl",
+          "classification",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 27410972,
+          "reputation": 29,
+          "user_id": 20910899,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/x3xFz.jpg?s=256",
+          "display_name": "Sugarplum_fairy",
+          "link": "https://stackoverflow.com/users/20910899/sugarplum-fairy"
+        },
+        "is_answered": true,
+        "view_count": 2893,
+        "answer_count": 1,
+        "score": 2,
+        "last_activity_date": 1694692169,
+        "creation_date": 1672659571,
+        "last_edit_date": 1694692169,
+        "question_id": 74981957,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74981957/openai-api-error-invalidrequesterror-invalid-url-post-v1-classifications",
+        "title": "OpenAI API error: &quot;InvalidRequestError: Invalid URL (POST /v1/classifications)&quot;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592767+00:00",
+      "data": {
+        "tags": [
+          "c#",
+          "httpwebrequest",
+          "google-text-to-speech",
+          ".net-7.0"
+        ],
+        "owner": {
+          "account_id": 39902,
+          "reputation": 26915,
+          "user_id": 115305,
+          "user_type": "registered",
+          "accept_rate": 99,
+          "profile_image": "https://i.sstatic.net/svGiU.jpg?s=256",
+          "display_name": "Wim ten Brink",
+          "link": "https://stackoverflow.com/users/115305/wim-ten-brink"
+        },
+        "is_answered": true,
+        "view_count": 186,
+        "accepted_answer_id": 74987366,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1672696480,
+        "creation_date": 1672692641,
+        "question_id": 74986946,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74986946/trying-to-use-google-tts-using-httpwebrequest-but-it-doesnt-work",
+        "title": "Trying to use Google TTS using HttpWebRequest but it doesn&#39;t work"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592773+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "module",
+          "attributeerror",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 27416259,
+          "reputation": 1,
+          "user_id": 20915380,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/biBd7.jpg?s=256",
+          "display_name": "Danie Forsell",
+          "link": "https://stackoverflow.com/users/20915380/danie-forsell"
+        },
+        "is_answered": true,
+        "view_count": 2867,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1678713606,
+        "creation_date": 1672709358,
+        "last_edit_date": 1678713606,
+        "question_id": 74988365,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74988365/openai-gpt-3-api-error-attributeerror-module-openai-has-no-attribute-gpt",
+        "title": "OpenAI GPT-3 API error: &quot;AttributeError: module &#39;openai&#39; has no attribute &#39;GPT&#39;&quot;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592786+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "dialogflow-es",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 27422808,
+          "reputation": 1,
+          "user_id": 20920901,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp6OZTyq66Il444yNB6G8sUDSdFRWfOFK5KenIVU=k-s256",
+          "display_name": "Dennis ",
+          "link": "https://stackoverflow.com/users/20920901/dennis"
+        },
+        "is_answered": false,
+        "view_count": 413,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1674654984,
+        "creation_date": 1672763815,
+        "question_id": 74996136,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74996136/extend-dialogflow-webhook-deadline-time-for-gpt-api-call",
+        "title": "extend dialogflow webhook deadline time for gpt api call"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592792+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "discord",
+          "command",
+          "bots"
+        ],
+        "owner": {
+          "account_id": 27424527,
+          "reputation": 1,
+          "user_id": 20922286,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/d23bd42d1bae8f223c399c28f8872a14?s=256&d=identicon&r=PG",
+          "display_name": "BubblePlayz",
+          "link": "https://stackoverflow.com/users/20922286/bubbleplayz"
+        },
+        "is_answered": false,
+        "view_count": 103,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673296171,
+        "creation_date": 1672775943,
+        "last_edit_date": 1673296171,
+        "question_id": 74998124,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74998124/python-discord-bot",
+        "title": "Python discord bot"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592799+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "speech-recognition",
+          "pyttsx3"
+        ],
+        "owner": {
+          "account_id": 27416259,
+          "reputation": 1,
+          "user_id": 20915380,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/biBd7.jpg?s=256",
+          "display_name": "Danie Forsell",
+          "link": "https://stackoverflow.com/users/20915380/danie-forsell"
+        },
+        "is_answered": false,
+        "view_count": 211,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1672788065,
+        "creation_date": 1672780052,
+        "last_edit_date": 1672787690,
+        "question_id": 74998661,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74998661/my-voice-assistant-program-doesnt-register-anything-i-say",
+        "title": "My voice assistant program doesn&#39;t register anything I say"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592805+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 14447410,
+          "reputation": 1,
+          "user_id": 12509961,
+          "user_type": "registered",
+          "profile_image": "https://lh4.googleusercontent.com/-SVil2xlbLnU/AAAAAAAAAAI/AAAAAAAAE2I/nZSPNemvCCY/s256-rj/photo.jpg",
+          "display_name": "Piyush Verma",
+          "link": "https://stackoverflow.com/users/12509961/piyush-verma"
+        },
+        "is_answered": true,
+        "view_count": 489,
+        "accepted_answer_id": 75023379,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1672946449,
+        "creation_date": 1672826188,
+        "last_edit_date": 1672843308,
+        "question_id": 75003737,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75003737/trying-to-insert-an-input-function-using-python-in-openai",
+        "title": "Trying to Insert an input function using Python in OpenAI"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592810+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "pyinstaller",
+          "py2app",
+          "openai-whisper"
+        ],
+        "owner": {
+          "account_id": 26504506,
+          "reputation": 25,
+          "user_id": 20200925,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/ff8eac6e33688d1cef5b5c6894d4831e?s=256&d=identicon&r=PG",
+          "display_name": "HNT",
+          "link": "https://stackoverflow.com/users/20200925/hnt"
+        },
+        "is_answered": false,
+        "view_count": 376,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1673460537,
+        "creation_date": 1672892177,
+        "last_edit_date": 1673460537,
+        "question_id": 75013804,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75013804/cant-create-an-app-or-a-script-using-whisper-from-openai",
+        "title": "Can&#39;t create an app or a script using Whisper from OpenAi"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592815+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "react-native",
+          "react-hooks"
+        ],
+        "owner": {
+          "account_id": 27437637,
+          "reputation": 13,
+          "user_id": 20933159,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4Ev57nQYWsOc6cBOc4OxVdu0i8KhWQZhGWn6RV=k-s256",
+          "display_name": "Wavetable",
+          "link": "https://stackoverflow.com/users/20933159/wavetable"
+        },
+        "is_answered": true,
+        "view_count": 557,
+        "accepted_answer_id": 75014273,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1672898043,
+        "creation_date": 1672894950,
+        "last_edit_date": 1672898043,
+        "question_id": 75014019,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75014019/trying-to-update-a-textarea-with-string-from-an-openai-request",
+        "title": "Trying to update a textarea with string from an OpenAI request"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592821+00:00",
+      "data": {
+        "tags": [
+          "swift",
+          "server-sent-events"
+        ],
+        "owner": {
+          "account_id": 27443531,
+          "reputation": 41,
+          "user_id": 20937785,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/5a55664ec1458cc2857f982c8bd02e8c?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "RKay",
+          "link": "https://stackoverflow.com/users/20937785/rkay"
+        },
+        "is_answered": false,
+        "view_count": 1177,
+        "answer_count": 0,
+        "score": 4,
+        "last_activity_date": 1682984814,
+        "creation_date": 1672931425,
+        "question_id": 75020531,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75020531/how-to-read-stream-using-openai-completion-api-in-swift-ios",
+        "title": "How to read stream using Openai completion API in Swift - iOS?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592826+00:00",
+      "data": {
+        "tags": [
+          "php",
+          "node.js",
+          "reactjs"
+        ],
+        "owner": {
+          "account_id": 7199787,
+          "reputation": 3,
+          "user_id": 5497327,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/61654703d64772e05309b3d86df289ad?s=256&d=identicon&r=PG",
+          "display_name": "DeepMagic",
+          "link": "https://stackoverflow.com/users/5497327/deepmagic"
+        },
+        "is_answered": true,
+        "view_count": 46,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1672943165,
+        "creation_date": 1672942629,
+        "last_edit_date": 1672943165,
+        "question_id": 75022741,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75022741/react-application-failing-to-fetch-once-publicly-hosted",
+        "title": "React application failing to fetch once publicly hosted"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592831+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "image",
+          "next.js",
+          "firebase-storage",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 27449270,
+          "reputation": 11,
+          "user_id": 20941867,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7HTqmxpmgvVz3DR5JYvW1feG2sySfLo1Ci33zd=k-s256",
+          "display_name": "adooze",
+          "link": "https://stackoverflow.com/users/20941867/adooze"
+        },
+        "is_answered": false,
+        "view_count": 506,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1685458218,
+        "creation_date": 1672978064,
+        "last_edit_date": 1672982303,
+        "question_id": 75026842,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75026842/how-do-i-upload-images-from-external-urls-onto-firebase-using-next-js",
+        "title": "How do I upload images from external URLs onto Firebase? (using next.js)"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592837+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 27452349,
+          "reputation": 21,
+          "user_id": 20944378,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4PT5FrUna-t2JZDNddeD0Ex_s8Ce63BEerx7zvgA=k-s256",
+          "display_name": "Zafar Ahmed",
+          "link": "https://stackoverflow.com/users/20944378/zafar-ahmed"
+        },
+        "is_answered": false,
+        "view_count": 1870,
+        "answer_count": 0,
+        "score": 2,
+        "last_activity_date": 1673004580,
+        "creation_date": 1673004580,
+        "question_id": 75030364,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75030364/getting-error-400-on-openai-image-edit-api",
+        "title": "Getting error 400 on OpenAI image edit API"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592843+00:00",
+      "data": {
+        "tags": [
+          "image-processing",
+          "deep-learning",
+          "sentiment-analysis"
+        ],
+        "owner": {
+          "account_id": 13842943,
+          "reputation": 11,
+          "user_id": 13352782,
+          "user_type": "registered",
+          "profile_image": "https://lh6.googleusercontent.com/-XhE27K77NvA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3CyP04YuHgVzbFUtDpJ8blBlJYPg/mo/s256-rj/photo.jpg",
+          "display_name": "Arjun Puri",
+          "link": "https://stackoverflow.com/users/13352782/arjun-puri"
+        },
+        "is_answered": false,
+        "view_count": 276,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1673021906,
+        "creation_date": 1673021906,
+        "question_id": 75033433,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75033433/detecting-semantic-difference-between-two-images",
+        "title": "Detecting Semantic Difference between Two Images"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592848+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "torch",
+          "stable-diffusion"
+        ],
+        "owner": {
+          "account_id": 9720653,
+          "reputation": 314,
+          "user_id": 7209497,
+          "user_type": "registered",
+          "accept_rate": 50,
+          "profile_image": "https://www.gravatar.com/avatar/c81dfc425cde444f55729a170a6650c8?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Jan",
+          "link": "https://stackoverflow.com/users/7209497/jan"
+        },
+        "is_answered": true,
+        "view_count": 364,
+        "accepted_answer_id": 75149904,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673975275,
+        "creation_date": 1673033324,
+        "last_edit_date": 1673041581,
+        "question_id": 75035337,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75035337/how-to-ensure-that-nonzero-returns-one-element-tensor",
+        "title": "How to ensure that .nonzero() returns one element tensor?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592853+00:00",
+      "data": {
+        "tags": [
+          "curl",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 108205,
+          "reputation": 28625,
+          "user_id": 287316,
+          "user_type": "registered",
+          "accept_rate": 87,
+          "profile_image": "https://www.gravatar.com/avatar/91e3968b06238889b8e1bcd7d3991a9a?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Student",
+          "link": "https://stackoverflow.com/users/287316/student"
+        },
+        "is_answered": true,
+        "view_count": 34126,
+        "accepted_answer_id": 75043933,
+        "answer_count": 2,
+        "score": 3,
+        "last_activity_date": 1693440915,
+        "creation_date": 1673103032,
+        "last_edit_date": 1674584219,
+        "question_id": 75041247,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75041247/whats-the-correct-url-to-test-openai-api",
+        "title": "What&#39;s the correct URL to test OpenAI API?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592859+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "node.js",
+          "server",
+          "localhost",
+          "node-modules"
+        ],
+        "owner": {
+          "account_id": 26614745,
+          "reputation": 1,
+          "user_id": 20234370,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu3Nwj_W75blVIZOTmogCgzFH7A76aVuKfhi6h5NwA=k-s256",
+          "display_name": "Anand Srivastava",
+          "link": "https://stackoverflow.com/users/20234370/anand-srivastava"
+        },
+        "is_answered": false,
+        "view_count": 182,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673112062,
+        "creation_date": 1673103475,
+        "question_id": 75041301,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75041301/nodemon-app-crashed-and-returning-error-that-err-module-not-found",
+        "title": "nodemon app crashed - and returning error that ERR MODULE NOT FOUND"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592864+00:00",
+      "data": {
+        "tags": [
+          "node.js",
+          "express",
+          "openai-api",
+          "http-status-code-429"
+        ],
+        "owner": {
+          "account_id": 16029943,
+          "reputation": 625,
+          "user_id": 11569163,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/bad953ca399535f47a9ec20c5eedaeb8?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Karan",
+          "link": "https://stackoverflow.com/users/11569163/karan"
+        },
+        "is_answered": true,
+        "view_count": 113934,
+        "protected_date": 1737073949,
+        "closed_date": 1737079257,
+        "answer_count": 10,
+        "score": 60,
+        "last_activity_date": 1737057767,
+        "creation_date": 1673105884,
+        "last_edit_date": 1678326071,
+        "question_id": 75041580,
+        "link": "https://stackoverflow.com/questions/75041580/openai-api-giving-error-429-too-many-requests",
+        "closed_reason": "Duplicate",
+        "title": "OpenAI API giving error: 429 Too Many Requests"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592871+00:00",
+      "data": {
+        "tags": [
+          "java",
+          "android",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 3492714,
+          "reputation": 154,
+          "user_id": 2921939,
+          "user_type": "registered",
+          "accept_rate": 58,
+          "profile_image": "https://www.gravatar.com/avatar/7dcdb6281ddf0be0ad411fe54249416e?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Amul Bhatia",
+          "link": "https://stackoverflow.com/users/2921939/amul-bhatia"
+        },
+        "is_answered": false,
+        "view_count": 412,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1673107263,
+        "creation_date": 1673107263,
+        "question_id": 75041744,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75041744/openai-not-giving-response-because-of-invalid-request",
+        "title": "OpenAI not giving response because of invalid request"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592876+00:00",
+      "data": {
+        "tags": [
+          "numpy",
+          "openai-gym",
+          "rllib"
+        ],
+        "owner": {
+          "account_id": 27456454,
+          "reputation": 1,
+          "user_id": 20947805,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/7ab5d00b8fb6ffe16770acde230c2aaa?s=256&d=identicon&r=PG",
+          "display_name": "J&#252;rgen",
+          "link": "https://stackoverflow.com/users/20947805/j%c3%bcrgen"
+        },
+        "is_answered": false,
+        "view_count": 156,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1683746654,
+        "creation_date": 1673111219,
+        "last_edit_date": 1673113210,
+        "question_id": 75042228,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75042228/openai-gym-rllib-assertionerror-in-customenviorment",
+        "title": "OpenAI Gym RLLib AssertionError in CustomEnviorment"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592883+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "machine-learning",
+          "artificial-intelligence",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 23177281,
+          "reputation": 411,
+          "user_id": 17275588,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/3eabe7b8ffcfff74c3822f423e2ed6c8?s=256&d=identicon&r=PG",
+          "display_name": "king_anton",
+          "link": "https://stackoverflow.com/users/17275588/king-anton"
+        },
+        "is_answered": false,
+        "view_count": 727,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673280053,
+        "creation_date": 1673162168,
+        "question_id": 75046073,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75046073/python-open-ai-gpt3-question-why-is-part-of-my-prompt-spilling-into-the-respo",
+        "title": "Python + Open AI/GPT3 question: Why is part of my prompt spilling into the responses I receive?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592888+00:00",
+      "data": {
+        "tags": [
+          "python-3.x",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 6162922,
+          "reputation": 51,
+          "user_id": 4803875,
+          "user_type": "registered",
+          "accept_rate": 0,
+          "profile_image": "https://lh6.googleusercontent.com/-sQDDR6n6faQ/AAAAAAAAAAI/AAAAAAAAAME/l2GkFqOIiAg/s256-rj/photo.jpg",
+          "display_name": "Usman Malik",
+          "link": "https://stackoverflow.com/users/4803875/usman-malik"
+        },
+        "is_answered": false,
+        "view_count": 549,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1673188964,
+        "creation_date": 1673188964,
+        "question_id": 75048655,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75048655/see-the-contents-of-openai-fine-tuned-model-results-in-python-using-the-openai-a",
+        "title": "See the contents of OpenAI Fine Tuned Model Results in Python using the OpenAI API"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592894+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "tensorflow",
+          "huggingface-transformers",
+          "openai-whisper"
+        ],
+        "owner": {
+          "account_id": 27466118,
+          "reputation": 51,
+          "user_id": 20955791,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp5xusDlKl2ZM_4oJuc6JkcnpspY9Mjxqb7ZhjORMg=k-s256",
+          "display_name": "Rendo Hugh Mann Sama",
+          "link": "https://stackoverflow.com/users/20955791/rendo-hugh-mann-sama"
+        },
+        "is_answered": false,
+        "view_count": 82,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1673192654,
+        "creation_date": 1673192654,
+        "question_id": 75049125,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75049125/huge-output-message",
+        "title": "Huge output message"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592903+00:00",
+      "data": {
+        "tags": [
+          "vue.js",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 27469585,
+          "reputation": 29,
+          "user_id": 20958759,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/f87c8755c7efb55125774dae8573421a?s=256&d=identicon&r=PG",
+          "display_name": "Simon Duquaine",
+          "link": "https://stackoverflow.com/users/20958759/simon-duquaine"
+        },
+        "is_answered": true,
+        "view_count": 9894,
+        "answer_count": 2,
+        "score": 2,
+        "last_activity_date": 1715647901,
+        "creation_date": 1673192760,
+        "last_edit_date": 1678714469,
+        "question_id": 75049140,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75049140/openai-gpt-3-api-error-429-request-failed-with-status-code-429",
+        "title": "OpenAI GPT-3 API error 429: &quot;Request failed with status code 429&quot;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592927+00:00",
+      "data": {
+        "tags": [
+          "c#",
+          ".net",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 13839960,
+          "reputation": 806,
+          "user_id": 9990572,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/578a1e788ab61e6177130270e007e2d1?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "MattHodson",
+          "link": "https://stackoverflow.com/users/9990572/matthodson"
+        },
+        "is_answered": true,
+        "view_count": 494,
+        "accepted_answer_id": 75104866,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673584239,
+        "creation_date": 1673210498,
+        "last_edit_date": 1673255161,
+        "question_id": 75051126,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75051126/open-ais-gpt-davinci-asking-it-questions-but-its-returning-gibberish",
+        "title": "Open AI&#39;s GPT Davinci - Asking it questions, but it&#39;s returning gibberish?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592933+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "html",
+          "jquery",
+          "google-apps-script",
+          "google-sheets"
+        ],
+        "owner": {
+          "account_id": 6341250,
+          "reputation": 21,
+          "user_id": 7922230,
+          "user_type": "registered",
+          "profile_image": "https://graph.facebook.com/1599085857030985/picture?type=large",
+          "display_name": "Abe.S",
+          "link": "https://stackoverflow.com/users/7922230/abe-s"
+        },
+        "is_answered": true,
+        "view_count": 226,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673233102,
+        "creation_date": 1673218335,
+        "last_edit_date": 1673220401,
+        "question_id": 75051865,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75051865/preview-email-template-based-on-drop-down-send-email-once-your-satisfuied",
+        "title": "Preview Email Template based on drop down, Send email once your satisfuied"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592938+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "openai-gym",
+          "hyperparameters",
+          "ray",
+          "hyperopt"
+        ],
+        "owner": {
+          "account_id": 24070445,
+          "reputation": 11,
+          "user_id": 18046437,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/c3d122ad83f909c9f964b76dba46bd46?s=256&d=identicon&r=PG",
+          "display_name": "Clm28",
+          "link": "https://stackoverflow.com/users/18046437/clm28"
+        },
+        "is_answered": true,
+        "view_count": 227,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1673480447,
+        "creation_date": 1673257074,
+        "last_edit_date": 1673271826,
+        "question_id": 75055390,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75055390/why-my-hyper-opt-algorithm-returns-a-bad-best-configuration-with-same-paramete",
+        "title": "Why my hyper_opt algorithm returns a bad &#39;best configuration&#39; with same parameters written several times"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592944+00:00",
+      "data": {
+        "tags": [
+          "excel",
+          "vba"
+        ],
+        "owner": {
+          "account_id": 27476465,
+          "reputation": 1,
+          "user_id": 20964363,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/e8b307fed16e82d4ff87b497324694b3?s=256&d=identicon&r=PG",
+          "display_name": "Richard Wagner",
+          "link": "https://stackoverflow.com/users/20964363/richard-wagner"
+        },
+        "is_answered": false,
+        "view_count": 355,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1673338090,
+        "creation_date": 1673263447,
+        "last_edit_date": 1673338090,
+        "question_id": 75056574,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75056574/run-time-error-1004-macro-getunits-can-not-be-run-macro-must-not-be-access",
+        "title": "Run-time error &quot;1004&quot;: Macro &quot;getUnits&quot; can not be run. macro must not be accessible in this worksheet or all the macros are forbidden"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592950+00:00",
+      "data": {
+        "tags": [
+          "reactjs",
+          "animation",
+          "dom-events"
+        ],
+        "owner": {
+          "account_id": 26132070,
+          "reputation": 11,
+          "user_id": 19822646,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AFdZuco0UiLgWx3qg3UwQQPcG1b1O5Lai7ZpGSuok3-gTg=k-s256",
+          "display_name": "NofiK",
+          "link": "https://stackoverflow.com/users/19822646/nofik"
+        },
+        "is_answered": false,
+        "view_count": 560,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1706352773,
+        "creation_date": 1673274919,
+        "question_id": 75058802,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75058802/is-it-possible-to-convert-my-react-dom-animation-into-a-video-or-gif",
+        "title": "Is it possible to convert my React DOM (animation) into a video or gif?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592955+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "audio",
+          "fft",
+          "accelerate-framework",
+          "openai-whisper"
+        ],
+        "owner": {
+          "account_id": 7219815,
+          "reputation": 783,
+          "user_id": 5510818,
+          "user_type": "registered",
+          "accept_rate": 17,
+          "profile_image": "https://i.sstatic.net/vPZef.png?s=256",
+          "display_name": "vade",
+          "link": "https://stackoverflow.com/users/5510818/vade"
+        },
+        "is_answered": false,
+        "view_count": 485,
+        "answer_count": 0,
+        "score": 2,
+        "last_activity_date": 1673316576,
+        "creation_date": 1673316576,
+        "question_id": 75064768,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75064768/trying-to-numerically-match-python-log-mel-spectrogram-in-accelerate-swift",
+        "title": "Trying to numerically match python Log-Mel Spectrogram in Accelerate / Swift"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592960+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "python-3.x",
+          "windows",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 18267047,
+          "reputation": 73,
+          "user_id": 13298551,
+          "user_type": "registered",
+          "profile_image": "https://lh4.googleusercontent.com/-ojgh2t5C34M/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMGfIDMedBIqYS9KcXS9IluXVgYwA/s256-rj/photo.jpg",
+          "display_name": "Ljyeon",
+          "link": "https://stackoverflow.com/users/13298551/ljyeon"
+        },
+        "is_answered": true,
+        "view_count": 26888,
+        "protected_date": 1729593358,
+        "answer_count": 3,
+        "score": 6,
+        "last_activity_date": 1729585605,
+        "creation_date": 1673342625,
+        "last_edit_date": 1674148640,
+        "question_id": 75067851,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75067851/how-to-fix-python-pip-install-openai-error-subprocess-exited-with-error",
+        "title": "How to fix Python pip install openai error: subprocess-exited-with-error"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592965+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "pip",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 27487560,
+          "reputation": 1,
+          "user_id": 20973542,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4iW9FT4XjBDA-HrZ5DaDbhP3rNbhMqmBoebYMf=k-s256",
+          "display_name": "김민우",
+          "link": "https://stackoverflow.com/users/20973542/%ea%b9%80%eb%af%bc%ec%9a%b0"
+        },
+        "is_answered": false,
+        "view_count": 2107,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1673367627,
+        "creation_date": 1673351689,
+        "last_edit_date": 1673352554,
+        "question_id": 75069602,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75069602/how-to-fix-pip-install-openai-error-subprocess-exited-with-error",
+        "title": "How to fix pip install openai error: subprocess-exited-with-error"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592970+00:00",
+      "data": {
+        "tags": [
+          "swift",
+          "pytorch",
+          "fft",
+          "accelerate-framework"
+        ],
+        "owner": {
+          "account_id": 7219815,
+          "reputation": 783,
+          "user_id": 5510818,
+          "user_type": "registered",
+          "accept_rate": 17,
+          "profile_image": "https://i.sstatic.net/vPZef.png?s=256",
+          "display_name": "vade",
+          "link": "https://stackoverflow.com/users/5510818/vade"
+        },
+        "is_answered": false,
+        "view_count": 521,
+        "answer_count": 0,
+        "score": 5,
+        "last_activity_date": 1673369505,
+        "creation_date": 1673368918,
+        "last_edit_date": 1673369505,
+        "question_id": 75073185,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75073185/matching-torch-stft-with-accelerate",
+        "title": "Matching Torch STFT with Accelerate"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592976+00:00",
+      "data": {
+        "tags": [
+          "azure",
+          "azure-cognitive-services"
+        ],
+        "owner": {
+          "account_id": 17221612,
+          "reputation": 11,
+          "user_id": 12468256,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/e98d33cce3bcdbaea7e17a53b416756b?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "IvanB",
+          "link": "https://stackoverflow.com/users/12468256/ivanb"
+        },
+        "is_answered": true,
+        "view_count": 1068,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1676552215,
+        "creation_date": 1673387079,
+        "question_id": 75076177,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75076177/unable-to-deploy-fine-tuned-curie-model-in-azure-openai",
+        "title": "Unable to deploy fine-tuned curie model in Azure OpenAI"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592981+00:00",
+      "data": {
+        "tags": [
+          "json",
+          "python-3.x",
+          "list"
+        ],
+        "owner": {
+          "account_id": 3973125,
+          "reputation": 3707,
+          "user_id": 3277133,
+          "user_type": "registered",
+          "accept_rate": 88,
+          "profile_image": "https://www.gravatar.com/avatar/f01532ca8aaae667f4d5e2f725f7d13d?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "RustyShackleford",
+          "link": "https://stackoverflow.com/users/3277133/rustyshackleford"
+        },
+        "is_answered": true,
+        "view_count": 70,
+        "accepted_answer_id": 75077242,
+        "answer_count": 1,
+        "score": 2,
+        "last_activity_date": 1673397341,
+        "creation_date": 1673396724,
+        "last_edit_date": 1673397341,
+        "question_id": 75077219,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75077219/how-to-create-a-comma-separated-list-out-of-string-separated-by-numbered-spaces",
+        "title": "How to create a comma separated list out of string, separated by numbered spaces inside JSON object from API?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592987+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "html",
+          "css",
+          "themes"
+        ],
+        "owner": {
+          "account_id": 4616294,
+          "reputation": 103,
+          "user_id": 3742695,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/fv1ap.jpg?s=256",
+          "display_name": "vram",
+          "link": "https://stackoverflow.com/users/3742695/vram"
+        },
+        "is_answered": true,
+        "view_count": 216,
+        "accepted_answer_id": 75097415,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673531783,
+        "creation_date": 1673407424,
+        "last_edit_date": 1673465270,
+        "question_id": 75078058,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75078058/i-cant-apply-the-dark-theme-without-showing-the-light-theme-first-in-a-web-app",
+        "title": "I can&#39;t apply the dark theme without showing the light theme first in a web app made with pure html, css and javascript"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592992+00:00",
+      "data": {
+        "tags": [
+          "html",
+          "css",
+          "frontend"
+        ],
+        "owner": {
+          "account_id": 23003959,
+          "reputation": 3,
+          "user_id": 17127546,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/4ec3bc137ace17ae4442301147fccb3b?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "IAmHim",
+          "link": "https://stackoverflow.com/users/17127546/iamhim"
+        },
+        "is_answered": true,
+        "view_count": 102,
+        "accepted_answer_id": 75078320,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673411040,
+        "creation_date": 1673410774,
+        "question_id": 75078299,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75078299/html-linking-a-spreadsheetcss-using-url-for",
+        "title": "html linking a spreadsheet(CSS) using url_for"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.592997+00:00",
+      "data": {
+        "tags": [
+          "android",
+          "react-native",
+          "security",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 1209092,
+          "reputation": 5276,
+          "user_id": 1178000,
+          "user_type": "registered",
+          "accept_rate": 67,
+          "profile_image": "https://i.sstatic.net/YL6KD.jpg?s=256",
+          "display_name": "YardenST",
+          "link": "https://stackoverflow.com/users/1178000/yardenst"
+        },
+        "is_answered": true,
+        "view_count": 3035,
+        "accepted_answer_id": 75109966,
+        "answer_count": 2,
+        "score": 5,
+        "last_activity_date": 1738100148,
+        "creation_date": 1673424376,
+        "last_edit_date": 1673458845,
+        "question_id": 75079926,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75079926/how-to-use-an-api-from-my-mobile-app-without-someone-stealing-the-token",
+        "title": "How to use an API from my mobile app without someone stealing the token"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593002+00:00",
+      "data": {
+        "tags": [
+          "angular",
+          "rest",
+          "post",
+          "multipartform-data",
+          "jsonlines"
+        ],
+        "owner": {
+          "account_id": 11205445,
+          "reputation": 61,
+          "user_id": 8221201,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/2xkyy.jpg?s=256",
+          "display_name": "charles lesoil",
+          "link": "https://stackoverflow.com/users/8221201/charles-lesoil"
+        },
+        "is_answered": true,
+        "view_count": 749,
+        "answer_count": 1,
+        "score": 3,
+        "last_activity_date": 1673432879,
+        "creation_date": 1673425763,
+        "question_id": 75080161,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75080161/angular-how-to-send-jsonl-string-to-a-rest-api-endpoint-post-method-that-exp",
+        "title": "Angular : How to send JSONL String to a REST API endpoint (POST Method) that expects a file?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593011+00:00",
+      "data": {
+        "tags": [
+          "google-apps-script",
+          "google-sheets",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 13234662,
+          "reputation": 1,
+          "user_id": 9557165,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/768ffe50f9cc427eae913dc44baab729?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Senhordasilva",
+          "link": "https://stackoverflow.com/users/9557165/senhordasilva"
+        },
+        "is_answered": true,
+        "view_count": 341,
+        "answer_count": 1,
+        "score": -1,
+        "last_activity_date": 1673441728,
+        "creation_date": 1673434154,
+        "question_id": 75081846,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75081846/using-dall-e-in-google-appscript",
+        "title": "Using Dall-E in google appscript"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593017+00:00",
+      "data": {
+        "tags": [
+          "node.js",
+          "next.js",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 12358467,
+          "reputation": 43,
+          "user_id": 9013530,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/W26Pq.jpg?s=256",
+          "display_name": "Aite Boye",
+          "link": "https://stackoverflow.com/users/9013530/aite-boye"
+        },
+        "is_answered": true,
+        "view_count": 828,
+        "accepted_answer_id": 75083205,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673440783,
+        "creation_date": 1673434298,
+        "last_edit_date": 1673437710,
+        "question_id": 75081879,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75081879/dall-e-api-in-node-js-always-returns-400-bad-request",
+        "title": "Dall-E API in Node.js always returns 400 Bad Request"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593022+00:00",
+      "data": {
+        "tags": [
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 20735680,
+          "reputation": 379,
+          "user_id": 16461166,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/nJCcu.png?s=256",
+          "display_name": "Tyler Kim",
+          "link": "https://stackoverflow.com/users/16461166/tyler-kim"
+        },
+        "is_answered": true,
+        "view_count": 8055,
+        "accepted_answer_id": 76444852,
+        "answer_count": 4,
+        "score": 3,
+        "last_activity_date": 1694689428,
+        "creation_date": 1673445766,
+        "last_edit_date": 1694688458,
+        "question_id": 75084272,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75084272/openai-gpt-3-api-how-to-keep-the-format-of-the-response",
+        "title": "OpenAI GPT-3 API: How to keep the format of the response?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593030+00:00",
+      "data": {
+        "tags": [
+          "unity-game-engine",
+          "httprequest",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 27486827,
+          "reputation": 114,
+          "user_id": 20972936,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp79x9oFka7Vjs7F4sWvJViOdlLA4GVxJzqCSmdX=k-s256",
+          "display_name": "Dolev Mitz",
+          "link": "https://stackoverflow.com/users/20972936/dolev-mitz"
+        },
+        "is_answered": true,
+        "view_count": 572,
+        "accepted_answer_id": 75092193,
+        "answer_count": 1,
+        "score": 4,
+        "last_activity_date": 1675063068,
+        "creation_date": 1673499487,
+        "last_edit_date": 1673505951,
+        "question_id": 75091786,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75091786/openai-unity-post-request-not-working-properly-400-status",
+        "title": "OpenAI Unity - POST Request not working properly (400 status)"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593037+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "typeerror",
+          "python-typing"
+        ],
+        "owner": {
+          "account_id": 10955363,
+          "reputation": 1231,
+          "user_id": 10836714,
+          "user_type": "registered",
+          "profile_image": "https://graph.facebook.com/1432765766783606/picture?type=large",
+          "display_name": "Mark Wagner",
+          "link": "https://stackoverflow.com/users/10836714/mark-wagner"
+        },
+        "is_answered": false,
+        "view_count": 265,
+        "closed_date": 1673576452,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1673576086,
+        "creation_date": 1673575881,
+        "last_edit_date": 1673576086,
+        "question_id": 75104206,
+        "link": "https://stackoverflow.com/questions/75104206/what-causes-a-type-error-when-subscribing-to-list",
+        "closed_reason": "Duplicate",
+        "title": "What causes a type error when subscribing to list?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593042+00:00",
+      "data": {
+        "tags": [
+          "php",
+          "artificial-intelligence",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 24939571,
+          "reputation": 21,
+          "user_id": 18805643,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjKZHJL6ZKj1wSoQq7ZizEBDVhrfB-QeZImbIzFLg=k-s256",
+          "display_name": "Vedran Korponajic",
+          "link": "https://stackoverflow.com/users/18805643/vedran-korponajic"
+        },
+        "is_answered": true,
+        "view_count": 2362,
+        "answer_count": 1,
+        "score": 2,
+        "last_activity_date": 1678715085,
+        "creation_date": 1673598495,
+        "last_edit_date": 1678715085,
+        "question_id": 75106599,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75106599/openai-gpt-3-api-why-am-i-getting-different-completions-on-playground-vs-the-a",
+        "title": "OpenAI GPT-3 API: Why am I getting different completions on Playground vs. the API?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593047+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "pandas",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 14310785,
+          "reputation": 198,
+          "user_id": 10337134,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/04a73b2ffd229f6620e06e73abb0666f?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "mostafa",
+          "link": "https://stackoverflow.com/users/10337134/mostafa"
+        },
+        "is_answered": true,
+        "view_count": 11243,
+        "accepted_answer_id": 75124884,
+        "answer_count": 2,
+        "score": 2,
+        "last_activity_date": 1679754112,
+        "creation_date": 1673631620,
+        "last_edit_date": 1673632542,
+        "question_id": 75112672,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75112672/no-module-named-openai-secret-manager",
+        "title": "No module named &#39;openai_secret_manager&#39;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593052+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "firebase",
+          "google-cloud-functions"
+        ],
+        "owner": {
+          "account_id": 23970316,
+          "reputation": 33,
+          "user_id": 17959103,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/377be71e06adce653a29c24332663e56?s=256&d=identicon&r=PG",
+          "display_name": "ubermo",
+          "link": "https://stackoverflow.com/users/17959103/ubermo"
+        },
+        "is_answered": true,
+        "view_count": 211,
+        "answer_count": 1,
+        "score": -1,
+        "last_activity_date": 1673706259,
+        "creation_date": 1673705880,
+        "last_edit_date": 1673706020,
+        "question_id": 75118592,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75118592/how-to-resolve-parsing-error-unexpected-reserved-word-await",
+        "title": "How to resolve parsing error: Unexpected reserved word &#39;await&#39;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593060+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "flask"
+        ],
+        "owner": {
+          "account_id": 22602735,
+          "reputation": 1,
+          "user_id": 20146403,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AATXAJxrl80oXtthqOPQzo1tOQSg166Ryrc_InYPxe55=k-s256",
+          "display_name": "vijay",
+          "link": "https://stackoverflow.com/users/20146403/vijay"
+        },
+        "is_answered": false,
+        "view_count": 850,
+        "answer_count": 1,
+        "score": -2,
+        "last_activity_date": 1683483042,
+        "creation_date": 1673718689,
+        "last_edit_date": 1673720905,
+        "question_id": 75120100,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75120100/how-to-deploy-a-pywebio-application-using-flask-so-that-i-can-deploy-in-websit",
+        "title": "How to deploy a pywebio application using Flask, (so that I can deploy in websites like heroku etc)"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593065+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "segmentation-fault",
+          "openai-gym",
+          "stable-baselines"
+        ],
+        "owner": {
+          "account_id": 14919683,
+          "reputation": 361,
+          "user_id": 10772422,
+          "user_type": "registered",
+          "profile_image": "https://graph.facebook.com/770499986635055/picture?type=large",
+          "display_name": "Ilija Vuk",
+          "link": "https://stackoverflow.com/users/10772422/ilija-vuk"
+        },
+        "is_answered": true,
+        "view_count": 684,
+        "accepted_answer_id": 75164407,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1674070324,
+        "creation_date": 1673731461,
+        "last_edit_date": 1674065047,
+        "question_id": 75121352,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75121352/stablebaselines-creating-a-model-segmentation-fault",
+        "title": "StableBaselines creating a model segmentation fault"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593070+00:00",
+      "data": {
+        "tags": [
+          "pypi",
+          "setup.py",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 13287953,
+          "reputation": 59,
+          "user_id": 9593417,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s256-rj/photo.jpg",
+          "display_name": "Gianluca Trentin",
+          "link": "https://stackoverflow.com/users/9593417/gianluca-trentin"
+        },
+        "is_answered": true,
+        "view_count": 20432,
+        "answer_count": 2,
+        "score": 5,
+        "last_activity_date": 1714986415,
+        "creation_date": 1673781903,
+        "last_edit_date": 1673781951,
+        "question_id": 75124685,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75124685/unable-to-install-tiktoken-from-pypi",
+        "title": "Unable to install tiktoken from PyPI"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593076+00:00",
+      "data": {
+        "tags": [
+          "discord.py"
+        ],
+        "owner": {
+          "account_id": 27535697,
+          "reputation": 1,
+          "user_id": 21013403,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7-JQi3_jOpacJhi_8ippRfotW03-isRqHVWTMV=k-s256",
+          "display_name": "Max P.",
+          "link": "https://stackoverflow.com/users/21013403/max-p"
+        },
+        "is_answered": true,
+        "view_count": 536,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673842433,
+        "creation_date": 1673796763,
+        "last_edit_date": 1673842433,
+        "question_id": 75126249,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75126249/how-do-i-fix-the-error-discord-ext-commands-errors-commandnotfound",
+        "title": "How do I fix the error? discord.ext.commands.errors.CommandNotFound"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593081+00:00",
+      "data": {
+        "tags": [
+          "node.js",
+          "artificial-intelligence",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 20150330,
+          "reputation": 47,
+          "user_id": 14777786,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgEJCnwBYh-Cb5IH6aZTJbwQb0nA8TIhQ__AjkK2w=k-s256",
+          "display_name": "SimplePhotos",
+          "link": "https://stackoverflow.com/users/14777786/simplephotos"
+        },
+        "is_answered": true,
+        "view_count": 592,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673843941,
+        "creation_date": 1673838718,
+        "question_id": 75129931,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75129931/getting-error-400-openai-files-endpoint-node-js",
+        "title": "Getting error 400 OpenAI files endpoint Node.js"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593088+00:00",
+      "data": {
+        "tags": [
+          "flask",
+          "flask-restful",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 18598647,
+          "reputation": 19,
+          "user_id": 13553999,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/S23ld.jpg?s=256",
+          "display_name": "Sourav Paul",
+          "link": "https://stackoverflow.com/users/13553999/sourav-paul"
+        },
+        "is_answered": true,
+        "view_count": 1518,
+        "accepted_answer_id": 75130180,
+        "answer_count": 1,
+        "score": -2,
+        "last_activity_date": 1674584464,
+        "creation_date": 1673841379,
+        "last_edit_date": 1674584464,
+        "question_id": 75130116,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75130116/getting-400-bad-request-from-open-ai-api-using-python-flask",
+        "title": "Getting 400 Bad Request from Open AI API using Python Flask"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593096+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "html",
+          "firebase",
+          "firebase-realtime-database"
+        ],
+        "owner": {
+          "account_id": 27538273,
+          "reputation": 1,
+          "user_id": 21015488,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp66h6eXRJQcmOTNa6nd_A0EGrMeiBpQXKIE7HWL=k-s256",
+          "display_name": "Vasco Da Gama",
+          "link": "https://stackoverflow.com/users/21015488/vasco-da-gama"
+        },
+        "is_answered": false,
+        "view_count": 549,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1673884653,
+        "creation_date": 1673861326,
+        "question_id": 75132293,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75132293/firebase-is-not-defined-database-ref-is-not-a-function",
+        "title": "firebase is not defined, database.ref() is not a function"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593107+00:00",
+      "data": {
+        "tags": [
+          "node.js",
+          "express",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 17059063,
+          "reputation": 67,
+          "user_id": 12342925,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/iteEFD0j.png?s=256",
+          "display_name": "Shay P",
+          "link": "https://stackoverflow.com/users/12342925/shay-p"
+        },
+        "is_answered": true,
+        "view_count": 1504,
+        "accepted_answer_id": 75137250,
+        "answer_count": 2,
+        "score": 1,
+        "last_activity_date": 1679298251,
+        "creation_date": 1673886020,
+        "last_edit_date": 1678715299,
+        "question_id": 75136962,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75136962/openai-gpt-3-api-error-typeerror-converting-circular-structure-to-json-using",
+        "title": "OpenAI GPT-3 API error: &quot;TypeError: Converting circular structure to JSON&quot; using ExpressJS"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593112+00:00",
+      "data": {
+        "tags": [
+          "node.js",
+          "angular",
+          "http-post",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 18808397,
+          "reputation": 81,
+          "user_id": 13717154,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GggoGpnj4MRRWwfJ1Xn7yoT2qlMW0Xatr6y1HtJ9w8=k-s256",
+          "display_name": "Franck Gomez",
+          "link": "https://stackoverflow.com/users/13717154/franck-gomez"
+        },
+        "is_answered": false,
+        "view_count": 1178,
+        "answer_count": 1,
+        "score": 2,
+        "last_activity_date": 1693411930,
+        "creation_date": 1673903977,
+        "last_edit_date": 1674425860,
+        "question_id": 75139801,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75139801/how-to-solve-authorization-header-using-bearer-angular-x-openai",
+        "title": "How to solve Authorization header using Bearer Angular x OpenAI"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593115+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "pandas",
+          "dataframe"
+        ],
+        "owner": {
+          "account_id": 27092093,
+          "reputation": 13,
+          "user_id": 20639702,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu3mR8-uBKuJyuJMNYBEDaFbbgjocmxd5IwFwY1F=k-s256",
+          "display_name": "g1soori",
+          "link": "https://stackoverflow.com/users/20639702/g1soori"
+        },
+        "is_answered": true,
+        "view_count": 568,
+        "accepted_answer_id": 75152902,
+        "answer_count": 3,
+        "score": 1,
+        "last_activity_date": 1673997623,
+        "creation_date": 1673990542,
+        "last_edit_date": 1673994820,
+        "question_id": 75152349,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75152349/how-to-convert-dataframe-columns-into-keyvalue-strings",
+        "title": "How to convert dataframe columns into key:value strings?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593119+00:00",
+      "data": {
+        "tags": [
+          "reactjs",
+          "api-key",
+          "openai-api",
+          ".env"
+        ],
+        "owner": {
+          "account_id": 26790361,
+          "reputation": 1,
+          "user_id": 20383869,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/0acb21cf439decf21472afb22c10be82?s=256&d=identicon&r=PG",
+          "display_name": "Marlon Barrios Solano",
+          "link": "https://stackoverflow.com/users/20383869/marlon-barrios-solano"
+        },
+        "is_answered": false,
+        "view_count": 2181,
+        "answer_count": 3,
+        "score": 0,
+        "last_activity_date": 1680140279,
+        "creation_date": 1673991697,
+        "question_id": 75152513,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75152513/how-to-create-a-env-with-with-the-apikey-of-openai-in-a-react-app",
+        "title": "How to create a .env with with the apikey of openai in a react app?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593122+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "reactjs"
+        ],
+        "owner": {
+          "account_id": 14437551,
+          "reputation": 2282,
+          "user_id": 10429169,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/Ns7vV.png?s=256",
+          "display_name": "VersifiXion",
+          "link": "https://stackoverflow.com/users/10429169/versifixion"
+        },
+        "is_answered": true,
+        "view_count": 85,
+        "accepted_answer_id": 75166921,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1674091209,
+        "creation_date": 1674086783,
+        "question_id": 75166523,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75166523/executing-a-function-only-after-setstate-is-done",
+        "title": "Executing a function only after setState is done"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593127+00:00",
+      "data": {
+        "tags": [
+          "node.js",
+          "nlp",
+          "openai-api"
+        ],
+        "owner": {
+          "user_type": "does_not_exist",
+          "display_name": "user1113883"
+        },
+        "is_answered": false,
+        "view_count": 337,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1674098435,
+        "creation_date": 1674093712,
+        "last_edit_date": 1674098435,
+        "question_id": 75167091,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75167091/getting-random-unrelated-api-responses-from-openai-text-davinci-003",
+        "title": "Getting random unrelated API responses from OpenAI text-davinci-003"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593131+00:00",
+      "data": {
+        "tags": [
+          "azure",
+          "azure-cognitive-services",
+          "azure-openai"
+        ],
+        "owner": {
+          "account_id": 4239972,
+          "reputation": 2668,
+          "user_id": 3470148,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/cgEbI.png?s=256",
+          "display_name": "Raz Ronen",
+          "link": "https://stackoverflow.com/users/3470148/raz-ronen"
+        },
+        "is_answered": true,
+        "view_count": 61753,
+        "accepted_answer_id": 75320135,
+        "answer_count": 10,
+        "score": 21,
+        "last_activity_date": 1744813072,
+        "creation_date": 1674130743,
+        "last_edit_date": 1682312241,
+        "question_id": 75172116,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75172116/why-im-getting-404-resource-not-found-to-my-newly-azure-openai-deployment",
+        "title": "Why I&#39;m getting 404 Resource Not Found to my newly Azure OpenAI deployment?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593134+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "json",
+          "python-3.x",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 27434813,
+          "reputation": 33,
+          "user_id": 20930898,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/8kIiBsTK.png?s=256",
+          "display_name": "Dashtiss",
+          "link": "https://stackoverflow.com/users/20930898/dashtiss"
+        },
+        "is_answered": true,
+        "view_count": 8112,
+        "accepted_answer_id": 75182746,
+        "answer_count": 2,
+        "score": 1,
+        "last_activity_date": 1691876965,
+        "creation_date": 1674152385,
+        "last_edit_date": 1678715374,
+        "question_id": 75176667,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75176667/openai-gpt-3-api-error-cannot-specify-both-model-and-engine",
+        "title": "OpenAI GPT-3 API error: &quot;Cannot specify both model and engine&quot;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593140+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "html",
+          "sockets",
+          "netcat"
+        ],
+        "owner": {
+          "account_id": 10400609,
+          "reputation": 61,
+          "user_id": 8409679,
+          "user_type": "registered",
+          "profile_image": "https://lh6.googleusercontent.com/-hT7RcANn88c/AAAAAAAAAAI/AAAAAAAAANo/3Z2-c6c87vs/s256-rj/photo.jpg",
+          "display_name": "Noam Bechhofer",
+          "link": "https://stackoverflow.com/users/8409679/noam-bechhofer"
+        },
+        "is_answered": false,
+        "view_count": 42,
+        "closed_date": 1674198721,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1674171853,
+        "creation_date": 1674170209,
+        "last_edit_date": 1674171853,
+        "question_id": 75179229,
+        "link": "https://stackoverflow.com/questions/75179229/python-socket-binding-and-netcatting",
+        "closed_reason": "Duplicate",
+        "title": "Python socket binding and netcatting"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593143+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "numpy",
+          "openai-gym",
+          "ray"
+        ],
+        "owner": {
+          "account_id": 20205768,
+          "reputation": 101,
+          "user_id": 14820237,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/e85ef596518f9b164088aa2e25861d19?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "hackr",
+          "link": "https://stackoverflow.com/users/14820237/hackr"
+        },
+        "is_answered": true,
+        "view_count": 1179,
+        "accepted_answer_id": 75205013,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1674786798,
+        "creation_date": 1674249728,
+        "question_id": 75189432,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75189432/is-there-a-way-to-define-a-gym-action-space-where-n-values-must-sum-to-a-constan",
+        "title": "Is there a way to define a Gym action space where N values must sum to a constant?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593148+00:00",
+      "data": {
+        "tags": [
+          "nlp",
+          "spacy",
+          "openai-whisper"
+        ],
+        "owner": {
+          "account_id": 24180350,
+          "reputation": 21,
+          "user_id": 18141121,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gh-oLXWiIzRbgNpXrxkRhSS54u1Z2hIf3LFFucSdMA=k-s256",
+          "display_name": "Dom I Yes",
+          "link": "https://stackoverflow.com/users/18141121/dom-i-yes"
+        },
+        "is_answered": false,
+        "view_count": 611,
+        "answer_count": 1,
+        "score": 2,
+        "last_activity_date": 1674560836,
+        "creation_date": 1674266250,
+        "last_edit_date": 1674280408,
+        "question_id": 75190737,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75190737/spacy-sentence-separation-with-dictionary-source-from-openai-whisper-whisperx",
+        "title": "spaCy sentence separation with dictionary source from OpenAI Whisper / WhisperX?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593150+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 22688028,
+          "reputation": 61,
+          "user_id": 16857335,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/2b2f4606c0480e506c4ebf81ff5eef22?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "sotired",
+          "link": "https://stackoverflow.com/users/16857335/sotired"
+        },
+        "is_answered": true,
+        "view_count": 8301,
+        "answer_count": 1,
+        "score": 2,
+        "last_activity_date": 1680173366,
+        "creation_date": 1674333618,
+        "last_edit_date": 1676992827,
+        "question_id": 75196414,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75196414/openai-api-error-500-the-server-had-an-error-while-processing-your-request-5",
+        "title": "OpenAI API error 500: &quot;The server had an error while processing your request&quot;, 503: &quot;Service Unavailable&quot; or 504: &quot;Gateway Timeout&quot;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593153+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "telegram-bot",
+          "openai-api",
+          "aiogram",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 23206722,
+          "reputation": 43,
+          "user_id": 17300847,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/cGKq9.jpg?s=256",
+          "display_name": "Deoken",
+          "link": "https://stackoverflow.com/users/17300847/deoken"
+        },
+        "is_answered": false,
+        "view_count": 413,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1674585514,
+        "creation_date": 1674338457,
+        "last_edit_date": 1674585514,
+        "question_id": 75196859,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75196859/how-to-make-the-bot-multithreaded",
+        "title": "How to make the bot multithreaded?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593156+00:00",
+      "data": {
+        "tags": [
+          "jupyter-lab",
+          "openai-api",
+          "gpt-2",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 15335127,
+          "reputation": 1448,
+          "user_id": 11063729,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/aAfQc.png?s=256",
+          "display_name": "Gray",
+          "link": "https://stackoverflow.com/users/11063729/gray"
+        },
+        "is_answered": true,
+        "view_count": 781,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1674345057,
+        "creation_date": 1674338489,
+        "last_edit_date": 1674343449,
+        "question_id": 75196860,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75196860/what-is-the-openai-api-warning-to-avoid-an-invalid-request-error-best-of-was-s",
+        "title": "What is the OpenAI API warning: To avoid an invalid_request_error, best_of was set to equal n. What is &quot;best of&quot;?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593161+00:00",
+      "data": {
+        "tags": [
+          "text-processing",
+          "azure-cognitive-search",
+          "azure-cognitive-services"
+        ],
+        "owner": {
+          "account_id": 28081,
+          "reputation": 309,
+          "user_id": 74636,
+          "user_type": "registered",
+          "accept_rate": 50,
+          "profile_image": "https://i.sstatic.net/1bwb0.jpg?s=256",
+          "display_name": "Lee Simpson",
+          "link": "https://stackoverflow.com/users/74636/lee-simpson"
+        },
+        "is_answered": false,
+        "view_count": 1820,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1674548701,
+        "creation_date": 1674370550,
+        "last_edit_date": 1674432797,
+        "question_id": 75198702,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75198702/approach-for-extracting-relevant-text-using-azure-cognitive-search",
+        "title": "Approach for extracting relevant text using Azure Cognitive Search"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593165+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "openai-api",
+          "openai-whisper"
+        ],
+        "owner": {
+          "account_id": 23003959,
+          "reputation": 3,
+          "user_id": 17127546,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/4ec3bc137ace17ae4442301147fccb3b?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "IAmHim",
+          "link": "https://stackoverflow.com/users/17127546/iamhim"
+        },
+        "is_answered": true,
+        "view_count": 2206,
+        "accepted_answer_id": 75266914,
+        "answer_count": 1,
+        "score": -2,
+        "last_activity_date": 1674901372,
+        "creation_date": 1674478925,
+        "last_edit_date": 1674578048,
+        "question_id": 75209923,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75209923/calls-error-on-ffmpeg-module-which-doesnt-have-error-attribute",
+        "title": "Calls error on ffmpeg module which doesnt have error attribute"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593169+00:00",
+      "data": {
+        "tags": [
+          "php",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 10216215,
+          "reputation": 11,
+          "user_id": 7541847,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/nXcH2.jpg?s=256",
+          "display_name": "Susan",
+          "link": "https://stackoverflow.com/users/7541847/susan"
+        },
+        "is_answered": true,
+        "view_count": 4697,
+        "accepted_answer_id": 75210429,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1694703388,
+        "creation_date": 1674481153,
+        "last_edit_date": 1678715737,
+        "question_id": 75210324,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75210324/openai-gpt-3-api-error-you-didnt-provide-an-api-key-you-need-to-provide-your",
+        "title": "OpenAI GPT-3 API error: &quot;You didn&#39;t provide an API key. You need to provide your API key in an Authorization header using Bearer auth&quot;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593175+00:00",
+      "data": {
+        "tags": [
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 17511619,
+          "reputation": 31,
+          "user_id": 12773807,
+          "user_type": "registered",
+          "profile_image": "https://lh5.googleusercontent.com/-xLXDsfkojn0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcowvor4-q0W6CGu4g17U_mD-ZZRw/s256-rj/photo.jpg",
+          "display_name": "jhvgh",
+          "link": "https://stackoverflow.com/users/12773807/jhvgh"
+        },
+        "is_answered": true,
+        "view_count": 1145,
+        "closed_date": 1674729852,
+        "accepted_answer_id": 75230098,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1675168542,
+        "creation_date": 1674568921,
+        "last_edit_date": 1674817138,
+        "question_id": 75222608,
+        "link": "https://stackoverflow.com/questions/75222608/how-to-force-openai-to-save-the-context-of-the-whole-chat",
+        "closed_reason": "Not suitable for this site",
+        "title": "how to force openai to save the context of the whole chat?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593178+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 1621220,
+          "reputation": 18851,
+          "user_id": 1497720,
+          "user_type": "registered",
+          "accept_rate": 41,
+          "profile_image": "https://www.gravatar.com/avatar/e7fb41c0ef8fc026892a668008b05098?s=256&d=identicon&r=PG",
+          "display_name": "william007",
+          "link": "https://stackoverflow.com/users/1497720/william007"
+        },
+        "is_answered": true,
+        "view_count": 263,
+        "answer_count": 1,
+        "score": 2,
+        "last_activity_date": 1674665654,
+        "creation_date": 1674640710,
+        "last_edit_date": 1674660916,
+        "question_id": 75232276,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75232276/index-in-opengpt-api-output",
+        "title": "`index` in OpenGPT API output"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593180+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "docker",
+          "docker-compose",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 5691690,
+          "reputation": 1105,
+          "user_id": 4499574,
+          "user_type": "registered",
+          "accept_rate": 50,
+          "profile_image": "https://graph.facebook.com/100008171821794/picture?type=large",
+          "display_name": "Shahrukh Mohammad",
+          "link": "https://stackoverflow.com/users/4499574/shahrukh-mohammad"
+        },
+        "is_answered": false,
+        "view_count": 1336,
+        "answer_count": 0,
+        "score": 2,
+        "last_activity_date": 1703751013,
+        "creation_date": 1674651173,
+        "question_id": 75234258,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75234258/unable-to-call-openai-api-from-within-a-docker-container",
+        "title": "Unable to call OpenAI API from within a docker container"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593183+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "machine-learning",
+          "reinforcement-learning",
+          "openai-gym",
+          "q-learning"
+        ],
+        "owner": {
+          "account_id": 21929754,
+          "reputation": 1,
+          "user_id": 16211854,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjpqcJVSV88DXbIiXGH-BcCk_UcBDb04P1jcI3Muw=k-s256",
+          "display_name": "Arjun Prakash",
+          "link": "https://stackoverflow.com/users/16211854/arjun-prakash"
+        },
+        "is_answered": true,
+        "view_count": 224,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1682411902,
+        "creation_date": 1674652673,
+        "last_edit_date": 1674652828,
+        "question_id": 75234553,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75234553/only-integers-slices-ellipsis-numpy-newaxis-none-and-intege",
+        "title": "only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices while using Q table"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593185+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "arrays",
+          "numpy"
+        ],
+        "owner": {
+          "account_id": 12095395,
+          "reputation": 15,
+          "user_id": 8839356,
+          "user_type": "registered",
+          "profile_image": "https://graph.facebook.com/10210473848819440/picture?type=large",
+          "display_name": "Alejandro Galache",
+          "link": "https://stackoverflow.com/users/8839356/alejandro-galache"
+        },
+        "is_answered": true,
+        "view_count": 54,
+        "accepted_answer_id": 75237732,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1674667969,
+        "creation_date": 1674666744,
+        "question_id": 75237525,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75237525/average-list-based-on-n-lists-all-of-them-with-the-same-length-with-python",
+        "title": "Average list based on &#39;n&#39; lists, all of them with the same length, with Python"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593188+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "openai-api",
+          "azure-openai",
+          "text-embedding-ada-002"
+        ],
+        "owner": {
+          "account_id": 27621992,
+          "reputation": 41,
+          "user_id": 21082823,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7Ocv8Weilq-frUfbBCeGQezbo3KE2I07rk9Zrq=k-s256",
+          "display_name": "Bisrat Moges",
+          "link": "https://stackoverflow.com/users/21082823/bisrat-moges"
+        },
+        "is_answered": true,
+        "view_count": 11586,
+        "answer_count": 1,
+        "score": 4,
+        "last_activity_date": 1694673646,
+        "creation_date": 1674679899,
+        "last_edit_date": 1681205575,
+        "question_id": 75239724,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75239724/openai-embeddings-api-error-attributeerror-module-openai-has-no-attribute",
+        "title": "OpenAI Embeddings API error: &quot;AttributeError: module &#39;openai&#39; has no attribute &#39;Embedding&#39;&quot;"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593190+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "openai-api",
+          "azure-openai",
+          "text-embedding-ada-002"
+        ],
+        "owner": {
+          "account_id": 3776870,
+          "reputation": 15,
+          "user_id": 3137471,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/fade99b29d8d2a137be2e770289aad85?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "user3137471",
+          "link": "https://stackoverflow.com/users/3137471/user3137471"
+        },
+        "is_answered": true,
+        "view_count": 3000,
+        "accepted_answer_id": 75292750,
+        "answer_count": 2,
+        "score": 1,
+        "last_activity_date": 1684341929,
+        "creation_date": 1674778292,
+        "last_edit_date": 1681205963,
+        "question_id": 75252902,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75252902/openai-embeddings-cosine-similarity-search-input-vector-should-be-1-d-error",
+        "title": "OpenAI Embeddings Cosine Similarity Search &#39;Input vector should be 1-D&#39; error"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593193+00:00",
+      "data": {
+        "tags": [
+          "nlp",
+          "translate",
+          "openai-api",
+          "machine-translation",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 3741724,
+          "reputation": 355,
+          "user_id": 3111375,
+          "user_type": "registered",
+          "accept_rate": 29,
+          "profile_image": "https://www.gravatar.com/avatar/14dab400cce8c1be972be7d83e5cb17a?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "gabriel",
+          "link": "https://stackoverflow.com/users/3111375/gabriel"
+        },
+        "is_answered": false,
+        "view_count": 611,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1718108015,
+        "creation_date": 1674813371,
+        "last_edit_date": 1674844554,
+        "question_id": 75256485,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75256485/training-using-openai-gpt-3-for-translations",
+        "title": "Training / using OpenAI GPT-3 for translations"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593195+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "discord",
+          "artificial-intelligence",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 23127570,
+          "reputation": 1,
+          "user_id": 17233145,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/a7770c994a0cb3f7c7a18c0a20a8309e?s=256&d=identicon&r=PG",
+          "display_name": "prophetdev771",
+          "link": "https://stackoverflow.com/users/17233145/prophetdev771"
+        },
+        "is_answered": false,
+        "view_count": 624,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1674834991,
+        "creation_date": 1674834991,
+        "question_id": 75260462,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75260462/failed-to-generate-image-when-using-custom-discord-bot-that-uses-dall-e-to-gen",
+        "title": "&quot;Failed to generate image&quot; when using custom Discord bot that uses DALL-E to generate images"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593197+00:00",
+      "data": {
+        "tags": [
+          "amazon-web-services",
+          "aws-lambda",
+          "aws-api-gateway",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 16411058,
+          "reputation": 251,
+          "user_id": 11854352,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/8bbe8fc2819b8b66edf40b48fd50ee93?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "good1492",
+          "link": "https://stackoverflow.com/users/11854352/good1492"
+        },
+        "is_answered": false,
+        "view_count": 302,
+        "answer_count": 0,
+        "score": 3,
+        "last_activity_date": 1679530820,
+        "creation_date": 1674837756,
+        "last_edit_date": 1679530820,
+        "question_id": 75260974,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75260974/piping-a-api-gateway-response-to-client-through-lambda-handler",
+        "title": "Piping a API Gateway response to client through Lambda handler"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593202+00:00",
+      "data": {
+        "tags": [
+          "json",
+          "ruby-on-rails"
+        ],
+        "owner": {
+          "account_id": 924776,
+          "reputation": 3648,
+          "user_id": 994581,
+          "user_type": "registered",
+          "accept_rate": 77,
+          "profile_image": "https://www.gravatar.com/avatar/5ff79a62688297a354a41d772f20a547?s=256&d=identicon&r=PG",
+          "display_name": "yellowreign",
+          "link": "https://stackoverflow.com/users/994581/yellowreign"
+        },
+        "is_answered": true,
+        "view_count": 96,
+        "accepted_answer_id": 75263410,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1675096231,
+        "creation_date": 1674851206,
+        "question_id": 75263037,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75263037/rails-how-can-i-iterate-over-json-field",
+        "title": "Rails How Can I Iterate Over JSON Field"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593205+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "html",
+          "node.js",
+          "client-side"
+        ],
+        "owner": {
+          "account_id": 27639960,
+          "reputation": 11,
+          "user_id": 21097083,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4yFE59ojmfJNiB1P4myD1-FyftqJ1QQTvUOv4Q=k-s256",
+          "display_name": "helpme",
+          "link": "https://stackoverflow.com/users/21097083/helpme"
+        },
+        "is_answered": false,
+        "view_count": 138,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1674874764,
+        "creation_date": 1674874764,
+        "question_id": 75265094,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75265094/using-an-npm-library-package-in-normal-javascript",
+        "title": "Using an NPM library/package in normal JavaScript"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593207+00:00",
+      "data": {
+        "tags": [
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 94281,
+          "reputation": 20833,
+          "user_id": 257493,
+          "user_type": "registered",
+          "accept_rate": 92,
+          "profile_image": "https://www.gravatar.com/avatar/56c5dee97a9311f9f33a85da8b02b031?s=256&d=identicon&r=PG",
+          "display_name": "Incognito",
+          "link": "https://stackoverflow.com/users/257493/incognito"
+        },
+        "is_answered": false,
+        "view_count": 1997,
+        "answer_count": 2,
+        "score": 1,
+        "last_activity_date": 1708382731,
+        "creation_date": 1674896962,
+        "last_edit_date": 1708382731,
+        "question_id": 75266549,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75266549/fine-tune-a-davinci-model-to-be-similar-to-instructgpt",
+        "title": "Fine-tune a davinci model to be similar to InstructGPT"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593210+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "tensorflow",
+          "pytorch",
+          "simulation",
+          "reinforcement-learning"
+        ],
+        "owner": {
+          "account_id": 27065473,
+          "reputation": 3,
+          "user_id": 20616903,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu3hkUOWQlKUiL4ZIuBMylW2R4PABUZS_2_fiQWZ=k-s256",
+          "display_name": "Resalat Bin Afsar",
+          "link": "https://stackoverflow.com/users/20616903/resalat-bin-afsar"
+        },
+        "is_answered": false,
+        "view_count": 186,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1674942554,
+        "creation_date": 1674925532,
+        "last_edit_date": 1674925861,
+        "question_id": 75269361,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75269361/why-i-am-getting-attributeerror-process-simulation-object-has-no-attribute-a",
+        "title": "Why I am getting AttributeError: &#39;process_simulation&#39; object has no attribute &#39;action_space&#39;/ observation_space?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593212+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "http",
+          "google-cloud-functions"
+        ],
+        "owner": {
+          "account_id": 20934660,
+          "reputation": 21,
+          "user_id": 15380112,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/87a684ded83f167c228fcbd0cfe14812?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "kevinw1015",
+          "link": "https://stackoverflow.com/users/15380112/kevinw1015"
+        },
+        "is_answered": false,
+        "view_count": 179,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1674980659,
+        "creation_date": 1674980188,
+        "last_edit_date": 1674980659,
+        "question_id": 75273480,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75273480/calling-python-google-cloud-function-via-http",
+        "title": "Calling Python Google Cloud Function via HTTP"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593215+00:00",
+      "data": {
+        "tags": [
+          "unity-game-engine",
+          "chatbot",
+          "text-to-speech",
+          "wit.ai"
+        ],
+        "owner": {
+          "account_id": 27647241,
+          "reputation": 11,
+          "user_id": 21102873,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/c020b98b6c6aebe8abf4c254ce259f58?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Mutaman89",
+          "link": "https://stackoverflow.com/users/21102873/mutaman89"
+        },
+        "is_answered": false,
+        "view_count": 99,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1675162582,
+        "creation_date": 1674983631,
+        "last_edit_date": 1675162582,
+        "question_id": 75273797,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75273797/how-do-you-isolate-a-text-string-from-in-a-chatbox-text-field-in-unity",
+        "title": "How do you isolate a text string from in a chatbox/text field in Unity?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593220+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "html",
+          "apache",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 2396794,
+          "reputation": 191,
+          "user_id": 2095448,
+          "user_type": "registered",
+          "accept_rate": 61,
+          "profile_image": "https://i.sstatic.net/3yn5N.png?s=256",
+          "display_name": "stilts77",
+          "link": "https://stackoverflow.com/users/2095448/stilts77"
+        },
+        "is_answered": false,
+        "view_count": 102,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1675015682,
+        "creation_date": 1675014128,
+        "question_id": 75277021,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75277021/why-does-this-web-hosted-python-code-result-in-a-500-internal-error",
+        "title": "Why does this web-hosted python code result in a 500 internal error?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593223+00:00",
+      "data": {
+        "tags": [
+          "json"
+        ],
+        "owner": {
+          "account_id": 27651797,
+          "reputation": 11,
+          "user_id": 21106549,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp600-LzcTXm7n1gROpD7cgStkQlXDk-IceURWtD=k-s256",
+          "display_name": "roy ming",
+          "link": "https://stackoverflow.com/users/21106549/roy-ming"
+        },
+        "is_answered": true,
+        "view_count": 16421,
+        "answer_count": 7,
+        "score": 1,
+        "last_activity_date": 1745919919,
+        "creation_date": 1675026232,
+        "last_edit_date": 1675107006,
+        "question_id": 75278373,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75278373/openai-api-call-error-we-could-not-parse-the-json",
+        "title": "OpenAI API call error: we could not parse the JSON"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593227+00:00",
+      "data": {
+        "tags": [
+          "php",
+          "curl",
+          "xampp",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 27651774,
+          "reputation": 1,
+          "user_id": 21106531,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/7711c9dc9dc2703ab1cd595e9ff0a849?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Xarvix",
+          "link": "https://stackoverflow.com/users/21106531/xarvix"
+        },
+        "is_answered": false,
+        "view_count": 623,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1675026237,
+        "creation_date": 1675026237,
+        "question_id": 75278374,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75278374/problem-integrating-the-openai-api-with-my-website-using-xampp-and-php",
+        "title": "Problem integrating the OpenAI API with my website using XAMPP and PHP"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593231+00:00",
+      "data": {
+        "tags": [
+          "c#",
+          ".net-7.0",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 20729980,
+          "reputation": 139,
+          "user_id": 15222225,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GiQRlyhJiPERzkhyZBj2ZvxtgEfxRy7Tcd1kCc=k-s256",
+          "display_name": "Andrew Harbert",
+          "link": "https://stackoverflow.com/users/15222225/andrew-harbert"
+        },
+        "is_answered": true,
+        "view_count": 3502,
+        "accepted_answer_id": 75279015,
+        "answer_count": 2,
+        "score": 3,
+        "last_activity_date": 1679581681,
+        "creation_date": 1675031403,
+        "last_edit_date": 1675031744,
+        "question_id": 75278850,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75278850/how-to-call-chatgpt-from-c-using-httpclientfactory-i-keep-getting-errors-and-n",
+        "title": "How to call ChatGPT from C# using HttpClientFactory, I keep getting errors and no responses"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593234+00:00",
+      "data": {
+        "tags": [
+          "reinforcement-learning",
+          "openai-gym",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 9423866,
+          "reputation": 322,
+          "user_id": 7009494,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/b7590c3861419e1b57868ad7d4e20b4a?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "tommy",
+          "link": "https://stackoverflow.com/users/7009494/tommy"
+        },
+        "is_answered": true,
+        "view_count": 1261,
+        "accepted_answer_id": 75327755,
+        "answer_count": 1,
+        "score": 3,
+        "last_activity_date": 1675364063,
+        "creation_date": 1675170266,
+        "question_id": 75297606,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75297606/openai-gymnasium-are-there-any-libraries-with-algorithms-supporting-it",
+        "title": "OpenAI Gymnasium, are there any libraries with algorithms supporting it?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593236+00:00",
+      "data": {
+        "tags": [
+          "r",
+          "openai-api",
+          "gpt-3"
+        ],
+        "owner": {
+          "account_id": 20848653,
+          "reputation": 556,
+          "user_id": 15313661,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/b592e48dd022338368031b4979ef7425?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "James",
+          "link": "https://stackoverflow.com/users/15313661/james"
+        },
+        "is_answered": true,
+        "view_count": 6785,
+        "accepted_answer_id": 75300061,
+        "answer_count": 4,
+        "score": 4,
+        "last_activity_date": 1715576809,
+        "creation_date": 1675180002,
+        "last_edit_date": 1678716267,
+        "question_id": 75299615,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75299615/openai-api-can-i-remove-the-line-break-from-the-response-with-a-parameter",
+        "title": "OpenAI API: Can I remove the line break from the response with a parameter?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:09.593239+00:00",
+      "data": {
+        "tags": [
+          "docker",
+          "docker-compose",
+          "airflow"
+        ],
+        "owner": {
+          "account_id": 10023396,
+          "reputation": 41,
+          "user_id": 7412309,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/a8f60da3f29a825da8545f27bb7caa84?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Justo Herrero",
+          "link": "https://stackoverflow.com/users/7412309/justo-herrero"
+        },
+        "is_answered": true,
+        "view_count": 2597,
+        "accepted_answer_id": 75324366,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1675346968,
+        "creation_date": 1675204168,
+        "question_id": 75303817,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75303817/getting-permissionerror-errno-13-permission-denied-when-running-dockeroperato",
+        "title": "Getting PermissionError: [Errno 13] Permission denied when running DockerOperator in Airflow (running in a Docker) in Mac OS"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "openai",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:10.508192+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "django",
+          "module",
+          "openai-api"
+        ],
+        "owner": {
+          "account_id": 20119680,
+          "reputation": 11,
+          "user_id": 17564315,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/deb36fd2349217ac3d925dce51acf220?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Matthew Setiawan",
+          "link": "https://stackoverflow.com/users/17564315/matthew-setiawan"
+        },
+        "is_answered": false,
+        "view_count": 297,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1675250386,
+        "creation_date": 1675207477,
+        "question_id": 75304162,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75304162/i-have-a-problem-importing-openai-in-django-for-web-application-purposes",
+        "title": "I have a problem importing openai in Django for web application purposes"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "claude",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:11.500560+00:00",
+      "data": {
+        "tags": [
+          "r",
+          "cmd",
+          "fortran"
+        ],
+        "owner": {
+          "account_id": 15229868,
+          "reputation": 43,
+          "user_id": 20931942,
+          "user_type": "registered",
+          "profile_image": "https://lh4.googleusercontent.com/-7dhpFmA20YU/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQOXbmD9MfUK8_cE25Z42yCIpN1z1g/mo/s256-rj/photo.jpg",
+          "display_name": "Warlock1",
+          "link": "https://stackoverflow.com/users/20931942/warlock1"
+        },
+        "is_answered": true,
+        "view_count": 347,
+        "accepted_answer_id": 75015789,
+        "answer_count": 1,
+        "score": 3,
+        "last_activity_date": 1672944257,
+        "creation_date": 1672875211,
+        "last_edit_date": 1672944257,
+        "question_id": 75012461,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75012461/using-blas-lapack-in-fortran-file-for-r",
+        "title": "Using blas/Lapack in Fortran file for R"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "claude",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:11.500576+00:00",
+      "data": {
+        "tags": [
+          "r",
+          "dataframe",
+          "matrix",
+          "type-conversion"
+        ],
+        "owner": {
+          "account_id": 15228041,
+          "reputation": 11,
+          "user_id": 19839692,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/d2d26b828288e91e938c926c5475973e?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Jay",
+          "link": "https://stackoverflow.com/users/19839692/jay"
+        },
+        "is_answered": true,
+        "view_count": 69,
+        "accepted_answer_id": 75167498,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1674099301,
+        "creation_date": 1674092872,
+        "last_edit_date": 1674093404,
+        "question_id": 75167037,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75167037/matrix-to-dataframe-conversion-fails-in-r",
+        "title": "Matrix to Dataframe conversion fails in R"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "gemini",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:11.911246+00:00",
+      "data": {
+        "tags": [
+          "g-wan"
+        ],
+        "owner": {
+          "account_id": 27552980,
+          "reputation": 21,
+          "user_id": 21027706,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7QLbWABCUphse-lzi89V2_PP73qimyjv2CK16G=k-s256",
+          "display_name": "nitin chandra",
+          "link": "https://stackoverflow.com/users/21027706/nitin-chandra"
+        },
+        "is_answered": true,
+        "view_count": 312,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1709817281,
+        "creation_date": 1673967992,
+        "question_id": 75148395,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75148395/trouble-starting-g-wan-webserver-on-ubuntu-22-04-lts",
+        "title": "Trouble starting g-wan webserver on Ubuntu 22.04 LTS"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "gemini",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:11.911262+00:00",
+      "data": {
+        "tags": [
+          "python"
+        ],
+        "owner": {
+          "account_id": 9130500,
+          "reputation": 2937,
+          "user_id": 6792327,
+          "user_type": "registered",
+          "accept_rate": 59,
+          "profile_image": "https://www.gravatar.com/avatar/880f402aee086615b9d052903267fd74?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Koh",
+          "link": "https://stackoverflow.com/users/6792327/koh"
+        },
+        "is_answered": true,
+        "view_count": 188,
+        "accepted_answer_id": 75198057,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1674359227,
+        "creation_date": 1674320100,
+        "question_id": 75195030,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75195030/gemini-api-supplied-value-is-not-a-valid-datetime",
+        "title": "Gemini API: Supplied value is not a valid DateTime"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "llm",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:12.354611+00:00",
+      "data": {
+        "tags": [
+          "elasticsearch",
+          "search",
+          "tensor",
+          "marqo"
+        ],
+        "owner": {
+          "account_id": 27447855,
+          "reputation": 90,
+          "user_id": 20940991,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/c5ea67385e8023757ab832fe1ff13b60?s=256&d=identicon&r=PG",
+          "display_name": "greenstreets2",
+          "link": "https://stackoverflow.com/users/20940991/greenstreets2"
+        },
+        "is_answered": false,
+        "view_count": 154,
+        "answer_count": 0,
+        "score": 2,
+        "last_activity_date": 1673177471,
+        "creation_date": 1673177471,
+        "question_id": 75047399,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75047399/when-is-it-appropriate-to-use-tensor-based-dbs-e-g-marqo-instead-of-keyword-ba",
+        "title": "When is it appropriate to use tensor-based DBs (e.g Marqo) instead of keyword based (e.g Elasticsearch)?"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "llm",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:12.354740+00:00",
+      "data": {
+        "tags": [
+          "excel",
+          "excel-formula",
+          "text-extraction"
+        ],
+        "owner": {
+          "account_id": 10580083,
+          "reputation": 69,
+          "user_id": 7794261,
+          "user_type": "registered",
+          "accept_rate": 100,
+          "profile_image": "https://i.sstatic.net/Bre0L.jpg?s=256",
+          "display_name": "sociologix",
+          "link": "https://stackoverflow.com/users/7794261/sociologix"
+        },
+        "is_answered": false,
+        "view_count": 205,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1673554613,
+        "creation_date": 1673553305,
+        "last_edit_date": 1673554613,
+        "question_id": 75101640,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75101640/excel-search-for-specific-words-in-string-and-extract-text-block-up-to-specifi",
+        "title": "Excel - Search for specific words in string and extract text block up to specific character"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "rag",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:12.821299+00:00",
+      "data": {
+        "tags": [
+          "arrays",
+          "c",
+          "pointers",
+          "command-line-arguments",
+          "gcc-warning"
+        ],
+        "owner": {
+          "account_id": 20972159,
+          "reputation": 55,
+          "user_id": 15744223,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gi2DCrV_29E7TMcRltXXwWF_Cxj3g5jU1aulOv76Q=k-s256",
+          "display_name": "Jeff Favret",
+          "link": "https://stackoverflow.com/users/15744223/jeff-favret"
+        },
+        "is_answered": true,
+        "view_count": 214,
+        "accepted_answer_id": 75009798,
+        "answer_count": 2,
+        "score": 2,
+        "last_activity_date": 1677000834,
+        "creation_date": 1672855562,
+        "last_edit_date": 1677000834,
+        "question_id": 75009528,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75009528/ragged-arrays-of-int-in-c",
+        "title": "Ragged arrays of int in C"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "rag",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:12.821333+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "pandas",
+          "if-statement",
+          "lambda",
+          "group-by"
+        ],
+        "owner": {
+          "account_id": 27487694,
+          "reputation": 1,
+          "user_id": 20973660,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp5WyOTtnogSiBcr9pNlYnX2f7oc0wfGaooM75uWtw=k-s256",
+          "display_name": "sasi kiran",
+          "link": "https://stackoverflow.com/users/20973660/sasi-kiran"
+        },
+        "is_answered": false,
+        "view_count": 47,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1673608299,
+        "creation_date": 1673351853,
+        "last_edit_date": 1673608299,
+        "question_id": 75069632,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75069632/groupby-id-and-count-of-col1-and-apply-conditional-filters-on-count-col-and-the",
+        "title": "Groupby ID and Count of col1 and apply conditional filters on Count col and the col1 and return a value"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "rag",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:12.821346+00:00",
+      "data": {
+        "tags": [
+          "multidimensional-array",
+          "common-lisp"
+        ],
+        "owner": {
+          "account_id": 23804889,
+          "reputation": 347,
+          "user_id": 17814577,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AATXAJwce0-hfimtFPbwZ8oi0mby0D_BNeN71mnbJr8n=k-s256",
+          "display_name": "Demihm Seinname",
+          "link": "https://stackoverflow.com/users/17814577/demihm-seinname"
+        },
+        "is_answered": true,
+        "view_count": 129,
+        "accepted_answer_id": 75114874,
+        "answer_count": 1,
+        "score": 2,
+        "last_activity_date": 1673647556,
+        "creation_date": 1673627132,
+        "last_edit_date": 1673628538,
+        "question_id": 75111887,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75111887/not-rectangular-arrays-in-common-lisp-general-question-for-didactical-purposes",
+        "title": "Not-rectangular arrays in Common Lisp? (General question for didactical purposes.)"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "rag",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:12.821362+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "numpy"
+        ],
+        "owner": {
+          "account_id": 5594514,
+          "reputation": 3735,
+          "user_id": 4432671,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/FJi5y.jpg?s=256",
+          "display_name": "xpqz",
+          "link": "https://stackoverflow.com/users/4432671/xpqz"
+        },
+        "is_answered": true,
+        "view_count": 119,
+        "accepted_answer_id": 75170483,
+        "answer_count": 3,
+        "score": 1,
+        "last_activity_date": 1674221993,
+        "creation_date": 1674120613,
+        "question_id": 75170120,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75170120/numpy-create-ndarray-of-objects",
+        "title": "NumPy: create ndarray of objects"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "rag",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:12.821379+00:00",
+      "data": {
+        "tags": [
+          "machine-learning",
+          "nlp",
+          "tensorflow2.0"
+        ],
+        "owner": {
+          "account_id": 19698742,
+          "reputation": 88,
+          "user_id": 19724552,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/3EJnJ.png?s=256",
+          "display_name": "Shivam Singh",
+          "link": "https://stackoverflow.com/users/19724552/shivam-singh"
+        },
+        "is_answered": false,
+        "view_count": 136,
+        "answer_count": 0,
+        "score": 1,
+        "last_activity_date": 1674919474,
+        "creation_date": 1674919474,
+        "question_id": 75268709,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75268709/converting-ragged-tensor-to-list",
+        "title": "Converting Ragged Tensor to List"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "ai-agent",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.299244+00:00",
+      "data": {
+        "tags": [
+          "jenkins",
+          "version-control",
+          "jenkins-pipeline",
+          "jenkins-plugins"
+        ],
+        "owner": {
+          "account_id": 13125667,
+          "reputation": 1852,
+          "user_id": 9481731,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s256-rj/photo.jpg",
+          "display_name": "AhmFM",
+          "link": "https://stackoverflow.com/users/9481731/ahmfm"
+        },
+        "is_answered": false,
+        "view_count": 392,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673463498,
+        "creation_date": 1673391576,
+        "last_edit_date": 1673463498,
+        "question_id": 75076705,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75076705/cannot-scm-git-pull-jenkinsfile-from-private-commit-on-gerrit",
+        "title": "Cannot scm git pull jenkinsfile from private commit on gerrit"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "ai-agent",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.299258+00:00",
+      "data": {
+        "tags": [
+          "javascript",
+          "reactjs"
+        ],
+        "owner": {
+          "account_id": 22810733,
+          "reputation": 103,
+          "user_id": 16962079,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/dS3Lk.png?s=256",
+          "display_name": "FengZi",
+          "link": "https://stackoverflow.com/users/16962079/fengzi"
+        },
+        "is_answered": false,
+        "view_count": 334,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1674215463,
+        "creation_date": 1674215022,
+        "last_edit_date": 1674215463,
+        "question_id": 75183570,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75183570/react-native-typeerror-network-request-failed-on-fetch",
+        "title": "React Native &quot;TypeError: Network request failed&quot; on Fetch"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "ai-agent",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.299265+00:00",
+      "data": {
+        "tags": [
+          "php",
+          "linux",
+          "windows",
+          "ssh"
+        ],
+        "owner": {
+          "account_id": 27274385,
+          "reputation": 55,
+          "user_id": 20795245,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7sdblbPt_rO5z50ImpNDgrS8OaSGljRdGB_J0Z=k-s256",
+          "display_name": "Fabio",
+          "link": "https://stackoverflow.com/users/20795245/fabio"
+        },
+        "is_answered": false,
+        "view_count": 46,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1674743543,
+        "creation_date": 1674743543,
+        "question_id": 75247528,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75247528/how-to-get-ssh2-exec-output-formatted-as-i-get-in-linux-shell",
+        "title": "How to get ssh2_exec output formatted as I get in linux shell"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "mcp",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.793931+00:00",
+      "data": {
+        "tags": [
+          "r",
+          "r-raster"
+        ],
+        "owner": {
+          "account_id": 27425268,
+          "reputation": 3,
+          "user_id": 20922888,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/3e3e4d0e12ebe0f7ec8db81687361f58?s=256&d=identicon&r=PG",
+          "display_name": "b786",
+          "link": "https://stackoverflow.com/users/20922888/b786"
+        },
+        "is_answered": false,
+        "view_count": 400,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1673494888,
+        "creation_date": 1672785474,
+        "last_edit_date": 1672864075,
+        "question_id": 74999325,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/74999325/extract-values-from-multiple-layers-of-a-rasterbrick-for-each-gps-location-in-r",
+        "title": "Extract values from multiple layers of a RasterBrick for each GPS location in R"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "mcp",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.793943+00:00",
+      "data": {
+        "tags": [
+          "modelica",
+          "openmodelica"
+        ],
+        "owner": {
+          "user_type": "does_not_exist",
+          "display_name": "user20691975"
+        },
+        "is_answered": true,
+        "view_count": 495,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1672838913,
+        "creation_date": 1672829358,
+        "last_edit_date": 1672838913,
+        "question_id": 75004308,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75004308/internal-error-transformation-module-pfplusext-index-reduction-method-pantelides",
+        "title": "Internal error Transformation Module PFPlusExt index Reduction Method Pantelides failed! - OpenModelica"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "mcp",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.793947+00:00",
+      "data": {
+        "tags": [
+          "c++",
+          "esp32"
+        ],
+        "owner": {
+          "account_id": 23710680,
+          "reputation": 61,
+          "user_id": 17732594,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/bea89fee307636b5bb802d3eb46ecfa3?s=256&d=identicon&r=PG",
+          "display_name": "Teebow",
+          "link": "https://stackoverflow.com/users/17732594/teebow"
+        },
+        "is_answered": true,
+        "view_count": 132,
+        "accepted_answer_id": 75009248,
+        "answer_count": 1,
+        "score": -1,
+        "last_activity_date": 1672854032,
+        "creation_date": 1672852252,
+        "last_edit_date": 1672852478,
+        "question_id": 75008904,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75008904/forwarding-an-object-in-c",
+        "title": "Forwarding an object in C++"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "mcp",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.793950+00:00",
+      "data": {
+        "tags": [
+          "pandas",
+          "indexing",
+          "rename"
+        ],
+        "owner": {
+          "account_id": 11966142,
+          "reputation": 3305,
+          "user_id": 8849755,
+          "user_type": "registered",
+          "profile_image": "https://i.sstatic.net/mt9DN.png?s=256",
+          "display_name": "user171780",
+          "link": "https://stackoverflow.com/users/8849755/user171780"
+        },
+        "is_answered": true,
+        "view_count": 748,
+        "closed_date": 1672921949,
+        "accepted_answer_id": 75016794,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1672913388,
+        "creation_date": 1672912824,
+        "last_edit_date": 1672913279,
+        "question_id": 75016670,
+        "link": "https://stackoverflow.com/questions/75016670/pandas-index-rename-using-dictionary",
+        "closed_reason": "Duplicate",
+        "title": "pandas index rename using dictionary"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "mcp",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.793953+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "python-3.x",
+          "raspberry-pi"
+        ],
+        "owner": {
+          "account_id": 23159063,
+          "reputation": 13,
+          "user_id": 17259956,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/63c326e5216a7d0aef160a8915564739?s=256&d=identicon&r=PG",
+          "display_name": "Smlekmew",
+          "link": "https://stackoverflow.com/users/17259956/smlekmew"
+        },
+        "is_answered": true,
+        "view_count": 216,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673109494,
+        "creation_date": 1673109254,
+        "question_id": 75041985,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75041985/about-python-keyboard-interrupt",
+        "title": "About python keyboard interrupt"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "mcp",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.793957+00:00",
+      "data": {
+        "tags": [
+          "python",
+          "raspberry-pi",
+          "embedded-linux",
+          "adc",
+          "iio"
+        ],
+        "owner": {
+          "account_id": 25332166,
+          "reputation": 9,
+          "user_id": 19151821,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/dd7659398ad20368c2149fb73606a203?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Ax111_",
+          "link": "https://stackoverflow.com/users/19151821/ax111"
+        },
+        "is_answered": false,
+        "view_count": 205,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1673861115,
+        "creation_date": 1673351074,
+        "last_edit_date": 1673549698,
+        "question_id": 75069494,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75069494/too-many-open-files-dev-spidev0-0",
+        "title": "Too many open files: /dev/spidev0.0"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "mcp",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.793960+00:00",
+      "data": {
+        "tags": [
+          "r",
+          "anova",
+          "posthoc"
+        ],
+        "owner": {
+          "account_id": 23985985,
+          "reputation": 11,
+          "user_id": 17972784,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjYLIJ-ojtaO-tz8cSUUkV3EY6oECCQFRxSdsd41A=k-s256",
+          "display_name": "mervet",
+          "link": "https://stackoverflow.com/users/17972784/mervet"
+        },
+        "is_answered": false,
+        "view_count": 462,
+        "answer_count": 1,
+        "score": -1,
+        "last_activity_date": 1673430637,
+        "creation_date": 1673429316,
+        "last_edit_date": 1673429411,
+        "question_id": 75080827,
+        "content_license": "CC BY-SA 4.0",
+        "link": "https://stackoverflow.com/questions/75080827/dunnett-test-with-two-different-factors-in-r",
+        "title": "Dunnett Test with two different factors in R"
+      }
+    },
+    {
+      "source": "stackoverflow",
+      "search_query": "mcp",
+      "collection_period_start": "2023-01-01",
+      "collection_period_end": "2023-02-01",
+      "collection_timestamp": "2026-08-18T10:51:13.793963+00:00",
+      "data": {
+        "tags": [
+          "java",
+          "minecraft"
+        ],
+        "owner": {
+          "account_id": 17326338,
+          "reputation": 101,
+          "user_id": 12556971,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mByDJYH7n5oEhRI6OB7Cos8rV2-OYxZKzlmcLHd7w=k-s256",
+          "display_name": "ByRuss X",
+          "link": "https://stackoverflow.com/users/12556971/byruss-x"
+        },
+        "is_answered": true,
+        "view_count": 230,
+        "closed_date": 1675076423,
+        "accepted_answer_id": 75281467,
+        "answer_count": 1,
+        "score": -3,
+        "last_activity_date": 1676394458,
+        "creation_date": 1675064690,
+        "last_edit_date": 1676394458,
+        "question_id": 75281431,
+        "link": "https://stackoverflow.com/questions/75281431/what-is-the-difference-between-this-two-variables-in-minecraft-source-code",
+        "closed_reason": "Needs more focus",
+        "title": "What is the difference between this two variables in Minecraft source code?"
+      }
+    }
+  ]
+}
