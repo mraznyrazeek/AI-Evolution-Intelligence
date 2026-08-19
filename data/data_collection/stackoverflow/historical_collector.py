@@ -29,7 +29,7 @@ END_YEAR = 2026
 END_MONTH = 8
 
 # Stop collection when quota reaches this level.
-MIN_QUOTA = 100
+MIN_QUOTA = 50
 
 # Store each month separately.
 OUTPUT_DIR = Path(
