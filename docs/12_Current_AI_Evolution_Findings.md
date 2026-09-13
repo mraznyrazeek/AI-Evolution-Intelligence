@@ -150,16 +150,50 @@ Correlation with the final AI Evolution Score:
 Developer Interest Score currently has the strongest correlation with
 the final composite score.
 
-## 9. Weight Sensitivity
+## 9. Source Weight Sensitivity
 
-The validation included alternative weighting tests:
+A source-weight sensitivity analysis was conducted to evaluate whether
+the AI Evolution Index rankings are sensitive to changes in the relative
+contribution of GitHub, Stack Overflow, and Hugging Face.
 
--   Baseline vs. GitHub 40% weighting rank correlation: **0.9974**
--   Baseline vs. Stack Overflow 40% weighting rank correlation:
-    **0.9969**
+The baseline configuration assigns equal weights:
 
-These very high correlations indicate that rankings are highly stable
-under the tested alternative weighting schemes.
+- GitHub: 33.3%
+- Stack Overflow: 33.3%
+- Hugging Face: 33.3%
+
+Alternative configurations assigned 40% and 50% weight to each individual
+source while proportionally reducing the weights of the remaining sources.
+
+| Configuration | GitHub | Stack Overflow | Hugging Face | Mean Abs. Rank Change | Rank Correlation | Exact Rank Agreement |
+|---|---:|---:|---:|---:|---:|---:|
+| Baseline | 33.3% | 33.3% | 33.3% | 0.0000 | 1.0000 | 100.00% |
+| GitHub 40% | 40% | 30% | 30% | 0.0833 | 0.9974 | 91.67% |
+| Stack Overflow 40% | 30% | 40% | 30% | 0.0530 | 0.9969 | 94.70% |
+| Hugging Face 40% | 30% | 30% | 40% | 0.1970 | 0.9898 | 84.47% |
+| GitHub 50% | 50% | 25% | 25% | 0.1515 | 0.9862 | 84.85% |
+| Stack Overflow 50% | 25% | 50% | 25% | 0.1061 | 0.9855 | 89.39% |
+| Hugging Face 50% | 25% | 25% | 50% | 0.6667 | 0.9164 | 63.26% |
+
+The results show that moderate changes in source weighting produce highly
+similar technology rankings. The GitHub 40% and Stack Overflow 40%
+configurations produced very high rank correlations with the baseline
+(0.9974 and 0.9969 respectively).
+
+Increasing the Hugging Face contribution produced greater changes in
+rankings. When Hugging Face was assigned 50% of the total weight, the
+rank correlation decreased to 0.9164 and exact rank agreement was 63.26%.
+This indicates that the model ecosystem signal has a comparatively strong
+influence on the composite ranking when heavily weighted.
+
+Despite these differences, the baseline equal-weight configuration was
+retained for AI Evolution Index V1 because it provides a transparent and
+balanced representation of the three complementary data sources.
+
+The sensitivity analysis therefore supports the use of equal source
+weights as a reasonable V1 baseline while demonstrating that source
+weighting remains an important methodological consideration for future
+versions of the index.
 
 ## 10. Recent Momentum
 
@@ -259,7 +293,7 @@ Initial visualizations have been generated for:
 -   [x] Hugging Face coverage validation
 -   [x] Source contribution analysis
 -   [x] Rank stability analysis
--   [x] Weight sensitivity testing
+-   [x] Source-weight sensitivity analysis
 -   [x] Initial visualizations
 
 ### Next Stage
