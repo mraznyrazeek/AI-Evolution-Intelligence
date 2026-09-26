@@ -1,0 +1,10 @@
+metric,missing_count,missing_percentage
+github_activity,0,0.0
+github_stars,0,0.0
+github_forks,0,0.0
+github_issues,0,0.0
+stackoverflow_questions,0,0.0
+stackoverflow_views,0,0.0
+stackoverflow_answers,0,0.0
+stackoverflow_score,0,0.0
+huggingface_models,108,40.909090909090914
